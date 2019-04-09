@@ -1,0 +1,38 @@
+[
+  {
+    "tag": "head",
+    "title": "北苑清真餐厅",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "h3",
+    "text": "清真食堂"
+  },
+  {
+    "tag": "h3",
+    "text": "在这里加上菜谱"
+  },
+  {
+    "tag": "img",
+    "src": "https://nenuyouth.com/img/dining/dining14.jpg"
+  },
+  {
+    "tag": "img",
+    "src": "https://nenuyouth.com/img/dining/dining15.jpg"
+  },
+  {
+    "tag": "p",
+    "text": "价位：一荤两素大概平均价位在7、8元左右，两荤一素在9、10元左右。"
+  },
+  {
+    "tag": "p",
+    "head": "注意",
+    "text": "请不要带非清真类食品、非清真食堂的筷子餐盘等入内。"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/4/9"
+  }
+]
