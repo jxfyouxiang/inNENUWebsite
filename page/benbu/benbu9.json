@@ -1,0 +1,18 @@
+[{
+        "tag": "head",
+        "title": "三舍A",
+        "display": false
+    },{ "tag": "swiper",
+         "url":["https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=d27778e4ae6eddc432eabca958b2dd98/730e0cf3d7ca7bcbd6c5912ebd096b63f624a871.jpg"] },
+    {
+        "tag": "h3",
+        "text": "三舍A"
+    },
+    {
+        "tag": "p",
+        "text": "住女生，共15层。入住外语学院英语系（包括公费师范生）、物理、文学、化学学院、环境学院（大一）学生。有电梯4台。一楼有自助终端机；开门时间为5:30-22:30；供电时间：早5:30-8:30，中12:30-13:30，晚15:30-23:30（周一至周五）5:30-23:00（周六至周日）"
+    },
+    {
+        "tag": "foot"
+    }
+]
