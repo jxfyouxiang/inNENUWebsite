@@ -1,0 +1,92 @@
+[
+  {
+    "tag": "head",
+    "title": "考试",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "list",
+    "head": "体测",
+    "content": [
+      {
+        "text": "体测时间",
+        "icon": "/module/icon/bodyMeasureTime.svg",
+        "aim": "test1"
+      },
+      {
+        "text": "测试项目及权重",
+        "icon": "/module/icon/item.svg",
+        "aim": "test2"
+      },
+      {
+        "text": "测试成绩说明",
+        "icon": "/module/icon/grade.svg",
+        "aim": "test3"
+      },
+      {
+        "text": "测试项目评分表",
+        "icon": "/module/icon/score.svg",
+        "aim": "test4"
+      },
+      {
+        "text": "申请免测/缓测的条件及程序",
+        "icon": "/module/icon/condition.svg",
+        "aim": "test5"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "英语",
+    "content": [
+      {
+        "text": "分级考试",
+        "icon": "/module/icon/gradeExam.svg",
+        "aim": "test6"
+      },
+      {
+        "text": "英语课程说明",
+        "icon": "/module/icon/English.svg",
+        "aim": "test7"
+      },
+      {
+        "text": "四六级报考",
+        "icon": "/module/icon/CET.svg",
+        "aim": "test8"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "计算机",
+    "content": [
+      {
+        "text": "计算机等级考试说明",
+        "icon": "/module/icon/computer.svg",
+        "aim": "test9"
+      },
+      {
+        "text": "计算机二级",
+        "icon": "/module/icon/computer.svg",
+        "aim": "test10"
+      },
+      {
+        "text": "计算机三级",
+        "icon": "/module/icon/computer.svg",
+        "aim": "test11"
+      },
+      {
+        "text": "计算机四级",
+        "icon": "/module/icon/computer.svg",
+        "aim": "test12"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/4/13"
+  }
+]
