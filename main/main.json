@@ -1,1 +1,0 @@
-[{ "tag": "head", "title": "首页", "action": true, "aimStep": 1, "aimDepth": 1, "grey": true, "shareable": true }, { "tag": "list", "head": "了解学业", "content": [{ "text": "我要上哪些课？", "desc": "课程计划", "aim": "study9" }, { "text": "通识教育课程", "aim": "study5" }, { "text": "专业教育课程", "aim": "study6" }, { "text": "发展方向课程", "aim": "study7" }, { "text": "了解更多", "aim": "study0" }] }]
