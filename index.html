@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>选课登录</title>
+</head>
+
+<body>
+  <form action="xk/LoginToXkLdap" method="post" id="xkForm">
+    用户名：
+    <input type="text" id="IDToken1" name="IDToken1" maxlength="20" />
+    @nenu.edu.cn
+    <br />
+    密　码：
+    <input type="password" id="IDToken2" name="IDToken2" maxlength="20" />
+    <br />
+    <input type="hidden" name="RANDOMCODE" id="RANDOMCODE" value="1234" />
+    <input type="hidden" id="ymyzm" name="ymyzm" value="1234" />
+    <a onclick="submit()" href="#">登录</a>
+  </form>
+  请选择需要登陆的服务器：(0-3)
+  <input type="number" id="SERVER" value="0" />
+  <script>
+    const serverData = [
+      "http://xk.nenu.edu.cn:80/",
+      "http://222.27.96.92:80/qzxk/",
+      "http://222.27.96.193:7001/qzxk/",
+      "http://222.27.96.94:80/qzxk/"
+    ];
+
+    function submit() {
+      let account = document.getElementById("IDToken1");
+      let password = document.getElementById("IDToken2");
+      let server = document.getElementById("SERVER");
+
+      if (!account.value || !password.value) {
+        alert('输入账号密码！');
+        return;
+      }
+
+      document.getElementById("xkForm").action = serverData[server.value] + 'xk/LoginToXkLdap?url=' + serverData[server.value] + 'xk/LoginToXkLdap';
+      document.getElementById("xkForm").submit();
+    }
+  </script>
+</body>
+
+</html>
