@@ -1,1 +1,1 @@
-[{"tag":"grid","head":false,"content":[{"text":"校园地图","icon":"/icon/tabPage/map.svg","url":"/function/map"},{"text":"音律东师","icon":"/icon/tabPage/music.svg","url":"/function/player"},{"text":"体测计算器","icon":"/icon/tabPage/calculate.svg","url":"/function/PEcal"}]}]
+[{"tag":"head","title":"功能大厅","hidden":true},{"tag":"grid","head":false,"content":[{"text":"校园地图","icon":"/icon/tabPage/map.svg","url":"/function/map"},{"text":"音律东师","icon":"/icon/tabPage/music.svg","url":"/function/player"},{"text":"体测计算器","icon":"/icon/tabPage/calculate.svg","url":"/function/PEcal"}]}]
