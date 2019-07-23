@@ -1,1 +1,28 @@
-[{"tag":"head","title":"校园卡","grey":true,"shareable":true,"contact":true},{"tag":"title","text":"校园卡主要功能"},{"tag":"p","head":"生活","text":" 宿舍网络的自助付费(注：可在线缴费)\n 食堂消费\n 超市购物\n 浴池洗澡\n 洗漱间的生活用水\n 饮用水接取\n 体育馆门禁"},{"tag":"p","head":"学习","text":" 图书超期罚款\n 图书馆电子阅览室的图书借阅\n 图书馆门禁\n 期中期末考试身份认证\n 计算机等级考试身份认证\n 英语四六级考试身份认证"},{"tag":"foot","author":"Mr.Hope","time":"2019/4/9"}]
+[
+  {
+    "tag": "head",
+    "title": "校园卡",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "校园卡主要功能"
+  },
+  {
+    "tag": "p",
+    "head": "生活",
+    "text": " 宿舍网络的自助付费(注：可在线缴费)\n 食堂消费\n 超市购物\n 浴池洗澡\n 洗漱间的生活用水\n 饮用水接取\n 体育馆门禁"
+  },
+  {
+    "tag": "p",
+    "head": "学习",
+    "text": " 图书超期罚款\n 图书馆电子阅览室的图书借阅\n 图书馆门禁\n 期中期末考试身份认证\n 计算机等级考试身份认证\n 英语四六级考试身份认证"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/4/9"
+  }
+]

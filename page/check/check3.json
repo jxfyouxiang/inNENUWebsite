@@ -1,1 +1,41 @@
-[{"tag":"head","title":"坐飞机到校","shareable":true,"contact":true},{"tag":"title","text":"先乘坐动车到长春站（最优）"},{"tag":"p","text":"\n   从离市区较远的龙嘉机场下车后，最好的方式是先乘坐动车到达长春站，动车价格便宜，车次频繁，速度快，全程约15分钟，每45分钟一班。每天大约有16趟车(一等座：10.5元；二等座：8.5元)。","src":"https://mp.nenuyouth.com/img/check/check22.jfif","desc":"图为龙嘉到长春动车时刻表"},{"tag":"p","text":"   下飞机之后，需要走出机场，经过天桥既是动车站。可以提前在12306APP上购买动车票，外面取票人多，过安检之后有取票机人少取票便捷。"},{"tag":"list","head":" ","content":[{"text":"到本部","aim":"check21"},{"text":"到净月","aim":"check22"}]},{"tag":"foot","author":"Mr.Hope","time":"2019/7/21"}]
+[
+  {
+    "tag": "head",
+    "title": "坐飞机到校",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "先乘坐动车到长春站（最优）"
+  },
+  {
+    "tag": "p",
+    "text": "\n   从离市区较远的龙嘉机场下车后，最好的方式是先乘坐动车到达长春站，动车价格便宜，车次频繁，速度快，全程约15分钟，每45分钟一班。每天大约有16趟车(一等座：10.5元；二等座：8.5元)。",
+    "src": "https://mp.nenuyouth.com/img/check/check22.jfif",
+    "desc": "图为龙嘉到长春动车时刻表"
+  },
+  {
+    "tag": "p",
+    "text": "   下飞机之后，需要走出机场，经过天桥既是动车站。可以提前在12306APP上购买动车票，外面取票人多，过安检之后有取票机人少取票便捷。"
+  },
+  {
+    "tag": "list",
+    "head": " ",
+    "content": [
+      {
+        "text": "到本部",
+        "aim": "check21"
+      },
+      {
+        "text": "到净月",
+        "aim": "check22"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/7/21"
+  }
+]

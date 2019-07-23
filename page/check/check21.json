@@ -1,1 +1,61 @@
-[{"tag":"head","title":"坐飞机-到本部","shareable":true,"contact":true},{"tag":"title","text":"动车-其他（最优）"},{"tag":"p","text":"   先坐动车到长春站，约15分钟，再从长春站到东北师范大学。一定要查好班车时间，提前规划（长春站到本部的方法见【火车站-本部】）。"},{"tag":"list","content":[{"text":"火车站-本部","icon":"/module/icon/train.svg","aim":"check17"}]},{"tag":"title","text":"机场巴士-公交"},{"tag":"p","text":"   约1小时3分钟，需步行417米，21元。机场巴士1号线/ 6号线→306路/66路/6路/6路夜车。\n 1. 乘坐机场巴士1号线到达人民广场站即终点站，20元（机场巴士-首：06:00，末：18:00 ）\n 2. 步行约323米，到达人民广场公交站（西南方向）（从人民广场终点站到人民广场公交站）"},{"tag":"img","src":"https://pic.kuaizhan.com/g2/M01/82/2F/wKjmqll9W5yASllQAACz-fycnWU9488751/imageView/v1/thumbnail/640x0","desc":"图为从人民广场终点站到人民广场公交站地图"},{"tag":"p","text":" 3. 乘坐306路/66路/6路/6路夜车到达自由大路站，1元\n4.步行约63米 到达东北师范大学（东北方向）"},{"tag":"img","src":"https://pic.kuaizhan.com/g2/M01/7D/95/CgpQVFl7Pf6AXyZiAAEwMfUNe0M5133029/imageView/v1/thumbnail/640x0","desc":"图为东北师范大学正门"},{"tag":"title","text":"打车"},{"tag":"p","text":"   出租车到本部的价格一般是100元左右，约50分钟。长春市龙嘉机场在离长春市区非常非常远的郊区，交通极其不便，打车费用惊人。"},{"tag":"foot","author":"Mr.Hope","time":"2019/7/21"}]
+[
+  {
+    "tag": "head",
+    "title": "坐飞机-到本部",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "动车-其他（最优）"
+  },
+  {
+    "tag": "p",
+    "text": "   先坐动车到长春站，约15分钟，再从长春站到东北师范大学。一定要查好班车时间，提前规划（长春站到本部的方法见【火车站-本部】）。"
+  },
+  {
+    "tag": "list",
+    "content": [
+      {
+        "text": "火车站-本部",
+        "icon": "/module/icon/train.svg",
+        "aim": "check17"
+      }
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "机场巴士-公交"
+  },
+  {
+    "tag": "p",
+    "text": "   约1小时3分钟，需步行417米，21元。机场巴士1号线/ 6号线→306路/66路/6路/6路夜车。\n 1. 乘坐机场巴士1号线到达人民广场站即终点站，20元（机场巴士-首：06:00，末：18:00 ）\n 2. 步行约323米，到达人民广场公交站（西南方向）（从人民广场终点站到人民广场公交站）"
+  },
+  {
+    "tag": "img",
+    "src": "https://pic.kuaizhan.com/g2/M01/82/2F/wKjmqll9W5yASllQAACz-fycnWU9488751/imageView/v1/thumbnail/640x0",
+    "desc": "图为从人民广场终点站到人民广场公交站地图"
+  },
+  {
+    "tag": "p",
+    "text": " 3. 乘坐306路/66路/6路/6路夜车到达自由大路站，1元\n4.步行约63米 到达东北师范大学（东北方向）"
+  },
+  {
+    "tag": "img",
+    "src": "https://pic.kuaizhan.com/g2/M01/7D/95/CgpQVFl7Pf6AXyZiAAEwMfUNe0M5133029/imageView/v1/thumbnail/640x0",
+    "desc": "图为东北师范大学正门"
+  },
+  {
+    "tag": "title",
+    "text": "打车"
+  },
+  {
+    "tag": "p",
+    "text": "   出租车到本部的价格一般是100元左右，约50分钟。长春市龙嘉机场在离长春市区非常非常远的郊区，交通极其不便，打车费用惊人。"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/7/21"
+  }
+]

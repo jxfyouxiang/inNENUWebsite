@@ -1,1 +1,57 @@
-[{"tag":"head","title":"本部美食节","shareable":true,"contact":true},{"tag":"p","text":"学校每年都会举办美食节，在那一天，食堂所有档口都会打8折，每个档口和食堂还会制作美食供大家品尝。"},{"tag":"title","text":"北苑"},{"tag":"img","src":"https://mp.nenuyouth.com/img/dining/dining28.jpg"},{"tag":"img","src":"https://mp.nenuyouth.com/img/dining/dining29.jpg"},{"tag":"img","src":"https://mp.nenuyouth.com/img/dining/dining30.jpg"},{"tag":"img","src":"https://mp.nenuyouth.com/img/dining/dining31.jpg"},{"tag":"title","text":"南苑"},{"tag":"img","src":"https://mp.nenuyouth.com/img/dining/dining32.jpg"},{"tag":"img","src":"https://mp.nenuyouth.com/img/dining/dining33.jpg"},{"tag":"img","src":"https://mp.nenuyouth.com/img/dining/dining34.jpg"},{"tag":"img","src":"https://mp.nenuyouth.com/img/dining/dining35.jpg"},{"tag":"foot","author":"Mr.Hope","time":"2019/4/9"}]
+[
+  {
+    "tag": "head",
+    "title": "本部美食节",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "p",
+    "text": "学校每年都会举办美食节，在那一天，食堂所有档口都会打8折，每个档口和食堂还会制作美食供大家品尝。"
+  },
+  {
+    "tag": "title",
+    "text": "北苑"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/dining/dining28.jpg"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/dining/dining29.jpg"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/dining/dining30.jpg"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/dining/dining31.jpg"
+  },
+  {
+    "tag": "title",
+    "text": "南苑"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/dining/dining32.jpg"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/dining/dining33.jpg"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/dining/dining34.jpg"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/dining/dining35.jpg"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/4/9"
+  }
+]

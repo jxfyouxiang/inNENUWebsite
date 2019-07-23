@@ -1,1 +1,30 @@
-[{"tag":"head","title":"学习","grey":true,"shareable":true,"contact":true},{"tag":"list","head":"奖学金","content":[{"text":"类型及评定时间","icon":"/module/icon/typeTime.svg","aim":"study1"},{"text":"特别说明","icon":"/module/icon/explanation.svg","aim":"study2"}]},{"tag":"foot","author":"Mr.Hope","time":"2019/4/13"}]
+[
+  {
+    "tag": "head",
+    "title": "学习",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "list",
+    "head": "奖学金",
+    "content": [
+      {
+        "text": "类型及评定时间",
+        "icon": "/module/icon/typeTime.svg",
+        "aim": "study1"
+      },
+      {
+        "text": "特别说明",
+        "icon": "/module/icon/explanation.svg",
+        "aim": "study2"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/4/13"
+  }
+]

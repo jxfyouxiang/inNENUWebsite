@@ -1,1 +1,80 @@
-[{"tag":"head","title":"学生组织","grey":true,"shareable":true,"contact":true},{"tag":"list","head":"学生组织","content":[{"text":"学生会","icon":"https://pic.kuaizhan.com/g3/ea/01/763b-2147-44fe-a66e-849829a11edf57","aim":"studentOrg1"},{"text":"研究生会","icon":"https://pic.kuaizhan.com/g3/de/06/0023-6fce-42b7-8df5-955e88a3b84821","aim":"studentOrg2"},{"text":"学生社团联合会","icon":"https://pic.kuaizhan.com/g3/9a/25/4a6d-09b1-44c0-97b9-7274b193c2c544","aim":"studentOrg3"},{"text":"红烛志愿者协会","icon":"https://pic.kuaizhan.com/g3/db/61/59df-1df9-487c-8e99-a8bbed0a740b56","aim":"studentOrg4"},{"text":"厚普公益学校","icon":"https://pic.kuaizhan.com/g3/6d/2b/8e59-76fe-4594-9c45-96d36f9c69ac79","aim":"studentOrg5"},{"text":"校新媒体中心","icon":"https://pic.kuaizhan.com/g3/ea/01/763b-2147-44fe-a66e-849829a11edf57","aim":"studentOrg12"},{"text":"《东师青年》报社","icon":"https://pic.kuaizhan.com/g3/be/e4/4e2b-846e-4ac9-b0d8-b26135715def78","aim":"studentOrg6"},{"text":"“东师之声”校园广播站","icon":"https://pic.kuaizhan.com/g3/a7/51/1362-e16e-4e4b-a1aa-bab71185285e27","aim":"studentOrg7"},{"text":"大学生艺术团","icon":"https://pic.kuaizhan.com/g3/e3/ad/5d95-8cc3-48f1-9313-b29e1274a5a997","aim":"studentOrg8"},{"text":"大学生体育俱乐部","icon":"https://pic.kuaizhan.com/g3/c6/d8/cf68-b8cc-4782-9663-ba171f39537073","aim":"studentOrg9"},{"text":"大学生创业中心","icon":"https://pic.kuaizhan.com/g3/ca/a4/f022-fe20-4327-b999-d1d80307be4a76","aim":"studentOrg10"},{"text":"青年马克思主义者学习研究会","icon":"https://pic.kuaizhan.com/g3/b8/1d/c821-0d54-4b83-bee8-e746a6096b8993","aim":"studentOrg11"}]},{"tag":"foot","author":"Mr.Hope","time":"2019/4/9"}]
+[
+  {
+    "tag": "head",
+    "title": "学生组织",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "list",
+    "head": "学生组织",
+    "content": [
+      {
+        "text": "学生会",
+        "icon": "https://pic.kuaizhan.com/g3/ea/01/763b-2147-44fe-a66e-849829a11edf57",
+        "aim": "studentOrg1"
+      },
+      {
+        "text": "研究生会",
+        "icon": "https://pic.kuaizhan.com/g3/de/06/0023-6fce-42b7-8df5-955e88a3b84821",
+        "aim": "studentOrg2"
+      },
+      {
+        "text": "学生社团联合会",
+        "icon": "https://pic.kuaizhan.com/g3/9a/25/4a6d-09b1-44c0-97b9-7274b193c2c544",
+        "aim": "studentOrg3"
+      },
+      {
+        "text": "红烛志愿者协会",
+        "icon": "https://pic.kuaizhan.com/g3/db/61/59df-1df9-487c-8e99-a8bbed0a740b56",
+        "aim": "studentOrg4"
+      },
+      {
+        "text": "厚普公益学校",
+        "icon": "https://pic.kuaizhan.com/g3/6d/2b/8e59-76fe-4594-9c45-96d36f9c69ac79",
+        "aim": "studentOrg5"
+      },
+      {
+        "text": "校新媒体中心",
+        "icon": "https://pic.kuaizhan.com/g3/ea/01/763b-2147-44fe-a66e-849829a11edf57",
+        "aim": "studentOrg12"
+      },
+      {
+        "text": "《东师青年》报社",
+        "icon": "https://pic.kuaizhan.com/g3/be/e4/4e2b-846e-4ac9-b0d8-b26135715def78",
+        "aim": "studentOrg6"
+      },
+      {
+        "text": "“东师之声”校园广播站",
+        "icon": "https://pic.kuaizhan.com/g3/a7/51/1362-e16e-4e4b-a1aa-bab71185285e27",
+        "aim": "studentOrg7"
+      },
+      {
+        "text": "大学生艺术团",
+        "icon": "https://pic.kuaizhan.com/g3/e3/ad/5d95-8cc3-48f1-9313-b29e1274a5a997",
+        "aim": "studentOrg8"
+      },
+      {
+        "text": "大学生体育俱乐部",
+        "icon": "https://pic.kuaizhan.com/g3/c6/d8/cf68-b8cc-4782-9663-ba171f39537073",
+        "aim": "studentOrg9"
+      },
+      {
+        "text": "大学生创业中心",
+        "icon": "https://pic.kuaizhan.com/g3/ca/a4/f022-fe20-4327-b999-d1d80307be4a76",
+        "aim": "studentOrg10"
+      },
+      {
+        "text": "青年马克思主义者学习研究会",
+        "icon": "https://pic.kuaizhan.com/g3/b8/1d/c821-0d54-4b83-bee8-e746a6096b8993",
+        "aim": "studentOrg11"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/4/9"
+  }
+]
