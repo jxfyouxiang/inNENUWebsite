@@ -45,11 +45,6 @@
         "text": "需带物品",
         "icon": "/module/icon/good.svg",
         "aim": "check7"
-      },
-      {
-        "text": "校内外超市",
-        "icon": "/module/icon/shop.svg",
-        "aim": "check8"
       }
     ]
   },
