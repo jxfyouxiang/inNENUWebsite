@@ -8,6 +8,20 @@
   },
   {
     "tag": "list",
+    "head": "报道之前",
+    "content": [
+      {
+        "text": "报到时间",
+        "aim": "FAQ7"
+      },
+      {
+        "text": "录取通知书",
+        "aim": "FAQ8"
+      }
+    ]
+  },
+  {
+    "tag": "list",
     "head": "找到组织",
     "content": [
       {
@@ -30,7 +44,7 @@
     "content": [
       {
         "text": "大学第一天",
-        "aim": "FAQ0"
+        "aim": "FAQ1"
       },
       {
         "text": "坐火车到校",

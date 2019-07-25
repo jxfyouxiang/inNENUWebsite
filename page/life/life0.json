@@ -43,12 +43,17 @@
         "text": "地铁卡公交卡",
         "icon": "/icon/tabPage/card.svg",
         "aim": "life7"
+      },
+      {
+        "text": "ATM",
+        "icon": "/module/icon/atm.svg",
+        "aim": "life8"
       }
     ]
   },
   {
     "tag": "foot",
     "author": "Mr.Hope",
-    "time": "2019/7/23"
+    "time": "2019/7/25"
   }
 ]

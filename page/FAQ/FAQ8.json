@@ -1,0 +1,22 @@
+[
+  {
+    "tag": "head",
+    "title": "录取通知书",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "p",
+    "style": "font-weight:600;font-size:24px;",
+    "text": "会发的会发的不要着急"
+  },
+  {
+    "tag": "p",
+    "text": "  与其盼着这个不如把行李收拾一下，把英语看看，锻炼一下自己的自理与自立额能力。"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/7/25"
+  }
+]
