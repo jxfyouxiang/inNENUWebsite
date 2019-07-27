@@ -12,17 +12,12 @@
   {
     "tag": "p",
     "head": "已知bug：",
-    "text": "大屏显示仍在适配中"
-  },
-  {
-    "tag": "p",
-    "head": "暂无法实现实现的内容：",
-    "text": "限制wx.request最大并发数；\nlogin界面布局动画异常；\n绩点计算器输入时键盘异常收起；\n绩点计算器夜间模式显示异常；"
+    "text": "如果没有到指南页面更新最新资源，首页可能会发生错误。"
   },
   {
     "tag": "p",
     "head": "等待官方改进才能实现的内容：",
-    "text": "regionchange多次触发；\niOSpicker-view夜间模式异常；\nbutton的open-type；"
+    "text": " iOSpicker-view夜间模式异常；\nbutton的open-type；"
   },
   {
     "tag": "list",
@@ -33,56 +28,60 @@
         "aim": "log1"
       },
       {
-        "text": "V0.1开发日志",
+        "text": "V 0.1开发日志",
         "aim": "log2"
       },
       {
-        "text": "V0.2开发日志",
+        "text": "V 0.2开发日志",
         "aim": "log3"
       },
       {
-        "text": "V0.3开发日志",
+        "text": "V 0.3开发日志",
         "aim": "log4"
       },
       {
-        "text": "V0.4开发日志",
+        "text": "V 0.4开发日志",
         "aim": "log5"
       },
       {
-        "text": "V0.5开发日志",
+        "text": "V 0.5开发日志",
         "aim": "log6"
       },
       {
-        "text": "V0.6开发日志",
+        "text": "V 0.6开发日志",
         "aim": "log7"
       },
       {
-        "text": "V0.7开发日志",
+        "text": "V 0.7开发日志",
         "aim": "log8"
       },
       {
-        "text": "V0.8开发日志",
+        "text": "V 0.8开发日志",
         "aim": "log9"
       },
       {
-        "text": "V0.9开发日志",
+        "text": "V 0.9开发日志",
         "aim": "log10"
       },
       {
-        "text": "V1.0开发日志",
+        "text": "V 1.0开发日志",
         "aim": "log11"
       },
       {
-        "text": "V1.1开发日志",
+        "text": "V 1.1开发日志",
         "aim": "log12"
       },
       {
-        "text": "V1.2开发日志",
+        "text": "V 1.2开发日志",
         "aim": "log13"
       },
       {
-        "text": "V1.3开发日志",
+        "text": "V 1.3开发日志",
         "aim": "log14"
+      },
+      {
+        "text": "V 2.0开发日志",
+        "aim": "log15"
       }
     ]
   },
