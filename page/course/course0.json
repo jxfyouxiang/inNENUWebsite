@@ -65,6 +65,17 @@
   },
   {
     "tag": "list",
+    "head": "体育课",
+    "content": [
+      {
+        "text": "网课说明",
+        "icon": "/icon/tabPage/course.svg",
+        "aim": "course15"
+      }
+    ]
+  },
+  {
+    "tag": "list",
     "head": "网课",
     "content": [
       {
