@@ -65,19 +65,13 @@
   },
   {
     "tag": "list",
-    "head": "体育课",
+    "head": "公共课程",
     "content": [
       {
-        "text": "网课说明",
+        "text": "体育课说明",
         "icon": "/icon/tabPage/course.svg",
         "aim": "course15"
-      }
-    ]
-  },
-  {
-    "tag": "list",
-    "head": "网课",
-    "content": [
+      },
       {
         "text": "网课说明",
         "icon": "/icon/tabPage/course.svg",
@@ -103,19 +97,13 @@
   },
   {
     "tag": "list",
-    "head": "双学位与辅修",
+    "head": "双学位、辅修与转专业",
     "content": [
       {
         "text": "获取双学位与辅修",
         "icon": "/module/icon/attention.svg",
         "aim": "course13"
-      }
-    ]
-  },
-  {
-    "tag": "list",
-    "head": "转专业",
-    "content": [
+      },
       {
         "text": "转专业实施办法及注意事项",
         "icon": "/module/icon/attention.svg",
@@ -126,6 +114,6 @@
   {
     "tag": "foot",
     "author": "Mr.Hope",
-    "time": "2019/7/22"
+    "time": "2019/7/30"
   }
 ]
