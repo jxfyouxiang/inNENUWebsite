@@ -69,12 +69,12 @@
     "content": [
       {
         "text": "体育课说明",
-        "icon": "/icon/tabPage/course.svg",
+        "icon": "/module/icon/bodyMeasureTime.svg",
         "aim": "course15"
       },
       {
         "text": "网课说明",
-        "icon": "/icon/tabPage/course.svg",
+        "icon": "/module/icon/wifi.svg",
         "aim": "course14"
       }
     ]
@@ -101,12 +101,12 @@
     "content": [
       {
         "text": "获取双学位与辅修",
-        "icon": "/module/icon/attention.svg",
+        "icon": "/icon/tabPage/course.svg",
         "aim": "course13"
       },
       {
         "text": "转专业实施办法及注意事项",
-        "icon": "/module/icon/attention.svg",
+        "icon": "/icon/tabPage/course.svg",
         "aim": "course12"
       }
     ]
@@ -114,6 +114,6 @@
   {
     "tag": "foot",
     "author": "Mr.Hope",
-    "time": "2019/7/30"
+    "time": "2019/8/2"
   }
 ]

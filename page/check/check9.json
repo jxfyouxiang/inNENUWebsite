@@ -133,10 +133,6 @@
   },
   {
     "tag": "img",
-    "src": "https://pic.kuaizhan.com/g1/M00/6F/D7/CgpQU1l-wKKACFf_AAC_VnGWuvY5287777/imageView/v1/thumbnail/640x0"
-  },
-  {
-    "tag": "img",
     "src": "https://mp.nenuyouth.com/img/check/check7.jpg",
     "desc": "本部摆台地点示意图"
   },
@@ -173,11 +169,11 @@
   },
   {
     "tag": "img",
-    "src": "https://pic.kuaizhan.com/g2/M01/D3/80/CgpQVFmT0n2ABsINAAZSIYPJymg8963198/imageView/v1/thumbnail/640x0"
+    "src": "https://mp.nenuyouth.com/img/check/jingyueNow.jfif"
   },
   {
     "tag": "img",
-    "src": "https://pic.kuaizhan.com/g2/M01/82/B2/wKjmqll93pWAaqvCAAQbHyLV_ko9159655/imageView/v1/thumbnail/640x0",
+    "src": "https://mp.nenuyouth.com/img/check/jingyue.jfif",
     "desc": "净月摆台地点示意图"
   },
   {
@@ -187,6 +183,6 @@
   {
     "tag": "foot",
     "author": "沈竞泽、Mr.Hope",
-    "time": "2019/07/21"
+    "time": "2019/8/2"
   }
 ]

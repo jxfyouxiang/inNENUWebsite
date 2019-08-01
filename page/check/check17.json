@@ -16,14 +16,12 @@
   },
   {
     "tag": "img",
-    "src": "https://pic.kuaizhan.com/g3/18/83/63a7-70e7-457f-a4e6-a5d787ebfb8831",
-    "res": "https://mp.nenuyouth.com/img/check/check3.jpg",
+    "src": "https://mp.nenuyouth.com/img/check/check3.jpg",
     "desc": "东北师大站时刻表"
   },
   {
     "tag": "img",
-    "src": "https://pic.kuaizhan.com/g3/58/c4/bd62-476b-48c8-b161-40fbfdcb3b1c98",
-    "res": "https://mp.nenuyouth.com/img/check/check4.jpg",
+    "src": "https://mp.nenuyouth.com/img/check/check4.jpg",
     "desc": "东北师大站门口"
   },
   {
@@ -33,8 +31,7 @@
   },
   {
     "tag": "img",
-    "src": "https://pic.kuaizhan.com/g3/96/36/d007-fcc7-4b99-8888-59274f95c45559",
-    "res": "https://mp.nenuyouth.com/img/check/check1.jpg",
+    "src": "https://mp.nenuyouth.com/img/check/check1.jpg",
     "desc": "地铁1号线门口"
   },
   {
@@ -44,24 +41,22 @@
   },
   {
     "tag": "img",
-    "src": "https://pic.kuaizhan.com/g3/c6/45/c06c-dfcd-4ab0-8017-7d4c7e4415b336",
-    "res": "https://mp.nenuyouth.com/img/check/check2.jpg",
+    "src": "https://mp.nenuyouth.com/img/check/check2.jpg",
     "desc": "自助售票机"
   },
   {
     "tag": "img",
-    "src": "https://pic.kuaizhan.com/g3/69/ed/9359-bec1-46a9-a866-c7aa9fcbf34109",
-    "res": "https://mp.nenuyouth.com/img/check/check5.jpg",
+    "src": "https://mp.nenuyouth.com/img/check/check5.jpg",
     "desc": "地铁一号线停靠点"
   },
   {
     "tag": "img",
-    "src": "https://pic.kuaizhan.com/g2/M00/81/EB/wKjmqll9NjGAJbC1AAJ2AnvSs1k0012295/imageView/v1/thumbnail/640x0",
+    "src": "https://mp.nenuyouth.com/img/check/subwayEnv.jfif",
     "desc": "地铁内部环境"
   },
   {
     "tag": "img",
-    "src": "https://pic.kuaizhan.com/g2/M01/81/EB/wKjmqll9NjCAE4P7AACwAG-p-Fw0371282/imageView/v1/thumbnail/640x0",
+    "src": "https://mp.nenuyouth.com/img/check/subwayTicket.jfif",
     "desc": "地铁票"
   },
   {
@@ -86,13 +81,12 @@
   },
   {
     "tag": "img",
-    "src": "https://pic.kuaizhan.com/g3/9c/da/c86b-f503-4760-b641-c39a84349dad98",
-    "res": "https://mp.nenuyouth.com/img/check/check6.jpg",
+    "src": "https://mp.nenuyouth.com/img/check/check6.jpg",
     "desc": "乘降中心指示牌"
   },
   {
     "tag": "foot",
     "author": "Mr.Hope",
-    "time": "2018/08/22"
+    "time": "2019/8/2"
   }
 ]
