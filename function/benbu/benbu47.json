@@ -1,1 +1,52 @@
-[{"tag":"head","title":"浴池","display":false},{"tag":"swiper","url":["https://pic.kuaizhan.com/g2/M01/80/A0/wKjmqll8GAKAXVnDAABxHPNkxug3166146/imageView/v1/thumbnail/640x0","https://pic.kuaizhan.com/g2/M01/80/8D/wKjmqll8DGqAMKMNACpxkbe-I1U5235384/imageView/v1/thumbnail/640x0"]},{"tag":"title","text":"浴池"},{"tag":"p","head":"洗浴（公共浴池）","text":"学生浴池在九舍背后，一楼是女宾、二楼是男宾。东师的浴池是大澡堂，没有隔间和帘子，洗澡的时候把一卡通插在感应槽里就会出热水。有阿姨或大爷可以为你搓澡。（搓澡费小贵）南方的同学不要害怕，冬天在浴池洗澡非常暖和。浴池二楼还有打印室、理发店、眼镜店。"},{"tag":"p","head":"浴池开、关门时间","text":"本部：8:00-18:30"},{"tag":"p","head":"浴池收费","text ":"学生浴池是按分钟收费的， 费用为0 .15 元/分钟， 自动从一卡通里扣。 "},{"tag ":"p ","head ":"浴池相关事宜 ","text ":"洗浴所需的所用物品均需自带， 包括拖鞋（净月浴池有吹风机不用带）。 "},{"tag ":"p ","head ":"照相 ","text ":"本部：浴池一楼；北苑复印店（但是他们家主营打印复印，而且比较忙……） "},{"tag ":"p","head ":"打印 ","text ":"本部打印店分布于: 浴池二楼、 北苑超市旁、 南苑、 图书馆一楼、 图书馆电子阅览室、 师训大楼一楼（ 现搬至北苑地下一楼） "},{"tag ":"foot","time":"2019/4/9"}]
+[
+  {
+    "tag": "head",
+    "title": "浴池",
+    "display": false
+  },
+  {
+    "tag": "swiper",
+    "url": [
+      "https://pic.kuaizhan.com/g2/M01/80/A0/wKjmqll8GAKAXVnDAABxHPNkxug3166146/imageView/v1/thumbnail/640x0",
+      "https://pic.kuaizhan.com/g2/M01/80/8D/wKjmqll8DGqAMKMNACpxkbe-I1U5235384/imageView/v1/thumbnail/640x0"
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "浴池"
+  },
+  {
+    "tag": "p",
+    "head": "洗浴（公共浴池）",
+    "text": "学生浴池在九舍背后，一楼是女宾、二楼是男宾。东师的浴池是大澡堂，没有隔间和帘子，洗澡的时候把一卡通插在感应槽里就会出热水。有阿姨或大爷可以为你搓澡。（搓澡费小贵）南方的同学不要害怕，冬天在浴池洗澡非常暖和。浴池二楼还有打印室、理发店、眼镜店。"
+  },
+  {
+    "tag": "p",
+    "head": "浴池开、关门时间",
+    "text": "本部：8:00-18:30"
+  },
+  {
+    "tag": "p",
+    "head": "浴池收费",
+    "text ": "学生浴池是按分钟收费的， 费用为0 .15 元/分钟， 自动从一卡通里扣。 "
+  },
+  {
+    "tag ": "p ",
+    "head ": "浴池相关事宜 ",
+    "text ": "洗浴所需的所用物品均需自带， 包括拖鞋（净月浴池有吹风机不用带）。 "
+  },
+  {
+    "tag ": "p ",
+    "head ": "照相 ",
+    "text ": "本部：浴池一楼；北苑复印店（但是他们家主营打印复印，而且比较忙……） "
+  },
+  {
+    "tag ": "p",
+    "head ": "打印 ",
+    "text ": "本部打印店分布于: 浴池二楼、 北苑超市旁、 南苑、 图书馆一楼、 图书馆电子阅览室、 师训大楼一楼（ 现搬至北苑地下一楼） "
+  },
+  {
+    "tag ": "foot",
+    "time": "2019/4/9"
+  }
+]

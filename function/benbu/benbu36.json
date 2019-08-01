@@ -1,1 +1,27 @@
-[{"tag":"head","title":"东北师范大学校史馆","display":false},{"tag":"swiper","url":["https://mp.nenuyouth.com/img/nenuyouth.png"]},{"tag":"title","text":"东北师范大学校史馆"},{"tag":"p","head":"简介","text":"校史馆建成于2005年，东北师范大学校史馆展厅设计特色鲜明，布展思路清晰明确，展出内容丰富翔实。校史馆的建成，为完善档案馆功能建设起到了积极的推进作用。"},{"tag":"foot","author":"fy","time":"2019/4/9"}]
+[
+  {
+    "tag": "head",
+    "title": "东北师范大学校史馆",
+    "display": false
+  },
+  {
+    "tag": "swiper",
+    "url": [
+      "https://mp.nenuyouth.com/img/nenuyouth.png"
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "东北师范大学校史馆"
+  },
+  {
+    "tag": "p",
+    "head": "简介",
+    "text": "校史馆建成于2005年，东北师范大学校史馆展厅设计特色鲜明，布展思路清晰明确，展出内容丰富翔实。校史馆的建成，为完善档案馆功能建设起到了积极的推进作用。"
+  },
+  {
+    "tag": "foot",
+    "author": "fy",
+    "time": "2019/4/9"
+  }
+]
