@@ -48,12 +48,17 @@
         "text": "ATM",
         "icon": "/module/icon/atm.svg",
         "aim": "life8"
+      },
+      {
+        "text": "就医",
+        "icon": "/icon/heart.svg",
+        "aim": "life9"
       }
     ]
   },
   {
     "tag": "foot",
     "author": "Mr.Hope",
-    "time": "2019/7/25"
+    "time": "2019/8/1"
   }
 ]

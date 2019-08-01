@@ -86,9 +86,12 @@
     "src": "https://mp.nenuyouth.com/img/FAQ/QRCode17.jpg"
   },
   {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/QRCode18.jpg"
+  },
+  {
     "tag": "foot",
     "author": "Mr.Hope",
-    "desc": "如需补充请联系QQ1178522294",
-    "time": "2019/7/25"
+    "time": "2019/8/1"
   }
 ]

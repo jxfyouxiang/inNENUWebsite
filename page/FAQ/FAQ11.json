@@ -11,7 +11,7 @@
   },
   {
     "tag": "p",
-    "text": "   请注意，目前校方认证并未开放，请等到8月6日之后再进行如下操作。"
+    "text": "   请注意，目前校方认证已开放。"
   },
   {
     "tag": "p",
@@ -21,7 +21,7 @@
   {
     "tag": "p",
     "head": "客户端注册认证流程",
-    "text": "   点击【没有账号】进行注册。输入手机号，点击获取短信验证码后输入图形验证码，图形验证码正确后验证码会以短信形式发送。直接点击【马上去校方认证】，填写学校(东北师范大学)、真实姓名和学号（录取通知书编号，2019开头的10位数字），点击【立即认证】，完成校方认证。"
+    "text": "  最新版客户端下载地址：\n  http://www.yiban.cn/upload/system/yiban_20190731_469.apk\n   点击【没有账号】进行注册。输入手机号，点击获取短信验证码后输入图形验证码，图形验证码正确后验证码会以短信形式发送。直接点击【马上去校方认证】，填写学校(东北师范大学)、真实姓名和学号（录取通知书编号，2019开头的10位数字），点击【立即认证】，完成校方认证。"
   },
   {
     "tag": "p",
@@ -34,27 +34,75 @@
   },
   {
     "tag": "p",
-    "text": "   点击下图中的红圈 ↓"
+    "text": "   点击图中的精品课程 ↓"
   },
   {
     "tag": "img",
-    "src": "https://mp.nenuyouth.com/img/FAQ/FAQ1.png"
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban1.jpg"
   },
   {
     "tag": "p",
-    "text": "   之后搜索东北师范大学即可进入如图所示的界面 ↓"
+    "text": "   之后点击右下角的我的 ↓"
   },
   {
     "tag": "img",
-    "src": "https://mp.nenuyouth.com/img/FAQ/FAQ2.png"
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban2.jpg"
   },
   {
     "tag": "p",
-    "text": "   再点击播放之后会黑屏几秒，请耐心等待即会开始播放。"
+    "text": "   点击我的课群 ↓"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban3.jpg"
+  },
+  {
+    "tag": "p",
+    "text": "   点击下方的添加课程 ↓"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban4.jpg"
+  },
+  {
+    "tag": "p",
+    "text": "   输入邀请码“EHT9WM5Z” ↓"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban5.jpg"
+  },
+  {
+    "tag": "p",
+    "text": "   选择自己的学院 ↓"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban6.jpg"
+  },
+  {
+    "tag": "p",
+    "text": "   点击课群课程进行学习(在点击播放之后可能会黑屏几秒，请耐心等待)，点击在线考试进行考试(请注意只有三次考试机会)，点击在线作业进行作业的作答。"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban7.jpg"
+  },
+  {
+    "tag": "p",
+    "text": "   之后请留存好成绩并打印，开学交给新生辅导员。要求成绩达到60分以上。"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban8.jpg"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban9.jpg"
   },
   {
     "tag": "foot",
     "author": "Mr.Hope",
-    "time": "2019/7/30"
+    "time": "2019/8/1"
   }
 ]

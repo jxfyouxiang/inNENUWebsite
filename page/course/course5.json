@@ -7,12 +7,21 @@
   },
   {
     "tag": "title",
+    "text": "2015版总课程计划"
+  },
+  {
+    "tag": "doc",
+    "docName": "2015版总课程计划.pdf",
+    "url": "https://mp.nenuyouth.com/file/courseplan/curriculumPlan.pdf"
+  },
+  {
+    "tag": "title",
     "text": "教育学部"
   },
   {
     "tag": "doc",
     "docName": "教育学部本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/education.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/education.pdf"
   },
   {
     "tag": "title",
@@ -21,7 +30,7 @@
   {
     "tag": "doc",
     "docName": "政法学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/law.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/law.pdf"
   },
   {
     "tag": "title",
@@ -30,7 +39,7 @@
   {
     "tag": "doc",
     "docName": "经济学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/economy.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/economy.pdf"
   },
   {
     "tag": "title",
@@ -39,7 +48,7 @@
   {
     "tag": "doc",
     "docName": "商学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/business.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/business.pdf"
   },
   {
     "tag": "title",
@@ -48,7 +57,7 @@
   {
     "tag": "doc",
     "docName": "文学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/literature.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/literature.pdf"
   },
   {
     "tag": "title",
@@ -57,7 +66,7 @@
   {
     "tag": "doc",
     "docName": "历史文化学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/history.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/history.pdf"
   },
   {
     "tag": "title",
@@ -66,7 +75,7 @@
   {
     "tag": "doc",
     "docName": "外国语学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/foreign.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/foreign.pdf"
   },
   {
     "tag": "title",
@@ -75,7 +84,7 @@
   {
     "tag": "doc",
     "docName": "音乐学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/music.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/music.pdf"
   },
   {
     "tag": "title",
@@ -84,7 +93,7 @@
   {
     "tag": "doc",
     "docName": "美术学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/art.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/art.pdf"
   },
   {
     "tag": "title",
@@ -93,7 +102,7 @@
   {
     "tag": "doc",
     "docName": "数学与统计学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/math.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/math.pdf"
   },
   {
     "tag": "title",
@@ -102,7 +111,7 @@
   {
     "tag": "doc",
     "docName": "计算机科学与信息技术学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/computer.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/computer.pdf"
   },
   {
     "tag": "title",
@@ -111,7 +120,7 @@
   {
     "tag": "doc",
     "docName": "信息与软件工程学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/information.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/information.pdf"
   },
   {
     "tag": "title",
@@ -120,7 +129,7 @@
   {
     "tag": "doc",
     "docName": "物理学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/physics.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/physics.pdf"
   },
   {
     "tag": "title",
@@ -129,7 +138,7 @@
   {
     "tag": "doc",
     "docName": "化学学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/chemistry.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/chemistry.pdf"
   },
   {
     "tag": "title",
@@ -138,7 +147,7 @@
   {
     "tag": "doc",
     "docName": "生命科学学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/biology.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/biology.pdf"
   },
   {
     "tag": "title",
@@ -147,7 +156,7 @@
   {
     "tag": "doc",
     "docName": "地理科学学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/geography.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/geography.pdf"
   },
   {
     "tag": "title",
@@ -156,7 +165,7 @@
   {
     "tag": "doc",
     "docName": "心理学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/psychology.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/psychology.pdf"
   },
   {
     "tag": "title",
@@ -165,7 +174,7 @@
   {
     "tag": "doc",
     "docName": "环境学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/environment.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/environment.pdf"
   },
   {
     "tag": "title",
@@ -174,7 +183,7 @@
   {
     "tag": "doc",
     "docName": "体育学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/PE.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/PE.pdf"
   },
   {
     "tag": "title",
@@ -183,7 +192,7 @@
   {
     "tag": "doc",
     "docName": "传媒科学学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/media.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/media.pdf"
   },
   {
     "tag": "title",
@@ -192,7 +201,7 @@
   {
     "tag": "doc",
     "docName": "马克思主义学部本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/Marx.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/Marx.pdf"
   },
   {
     "tag": "title",
@@ -201,7 +210,7 @@
   {
     "tag": "doc",
     "docName": "国际汉学院（海外教育学院）本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/international.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/international.pdf"
   },
   {
     "tag": "title",
@@ -210,11 +219,12 @@
   {
     "tag": "doc",
     "docName": " 东北师范大学罗格斯大学纽瓦克学院本科课程计划.pdf",
-    "url": "https://mp.nenuyouth.com/file/Newark.pdf"
+    "url": "https://mp.nenuyouth.com/file/courseplan/Newark.pdf"
   },
   {
     "tag": "foot",
+    "time": "2019/8/1",
     "desc": "学院顺序来自东北师范大学教务处",
-    "author": "王一竹"
+    "author": "Mr.Hope"
   }
 ]

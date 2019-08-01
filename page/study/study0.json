@@ -23,6 +23,17 @@
     ]
   },
   {
+    "tag": "list",
+    "head": "校园管理条例",
+    "content": [
+      {
+        "text": "常见犯错以及相关处罚规定",
+        "icon": "/icon/about.svg",
+        "aim": "study3"
+      }
+    ]
+  },
+  {
     "tag": "foot",
     "author": "Mr.Hope",
     "time": "2019/4/13"
