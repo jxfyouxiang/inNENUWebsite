@@ -17,7 +17,24 @@
       },
       {
         "text": "大学生记者团",
-        "aim": "corporation3"
+        "aim": "corporation3",
+        "icon": "https://mp.nenuyouth.com/img/corporation/jizhetuan.png"
+      },
+      {
+        "text": "青音吉他社",
+        "aim": "corporation4"
+      },
+      {
+        "text": "“V·梦”创新创业协会",
+        "aim": "corporation5"
+      },
+      {
+        "text": "科技爱好者协会",
+        "aim": "corporation6"
+      },
+      {
+        "text": "天宇协会",
+        "aim": "corporation7"
       },
       {
         "text": "心理协会",
@@ -37,10 +54,6 @@
       },
       {
         "text": "英国议会制全英辩论俱乐部",
-        "aim": "corporation1"
-      },
-      {
-        "text": "科技爱好者协会",
         "aim": "corporation1"
       },
       {
@@ -65,10 +78,6 @@
       },
       {
         "text": "中华古诗词吟诵团",
-        "aim": "corporation1"
-      },
-      {
-        "text": "天宇协会",
         "aim": "corporation1"
       },
       {
@@ -128,10 +137,6 @@
         "aim": "corporation1"
       },
       {
-        "text": "“V·梦”创新创业协会",
-        "aim": "corporation1"
-      },
-      {
         "text": "千格刀笔油画协会",
         "aim": "corporation1"
       },
@@ -149,10 +154,6 @@
       },
       {
         "text": "GIS新希望协会",
-        "aim": "corporation1"
-      },
-      {
-        "text": "青音吉他社",
         "aim": "corporation1"
       },
       {

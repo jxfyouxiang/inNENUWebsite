@@ -1,0 +1,50 @@
+[
+  {
+    "tag": "head",
+    "title": "易班注册流程",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "Web端注册认证流程"
+  },
+  {
+    "tag": "p",
+    "text": " 首先打开浏览器访问https://www.yiban.cn/。点右上角的【注册】按钮。"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/yibanRegister1.png"
+  },
+  {
+    "tag": "p",
+    "text": " 按照要求输入手机号与验证码，设置密码后点击下一步。"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/yibanRegister2.png"
+  },
+  {
+    "tag": "p",
+    "text": " 。直接点击【马上去校方认证】，填写学校(东北师范大学)、真实姓名和学号（录取通知书编号，2019开头的10位数字），点击【立即认证】，完成校方认证。"
+  },
+  {
+    "tag": "title",
+    "text": "客户端注册认证流程"
+  },
+  {
+    "tag": "p",
+    "text": "  最新版客户端下载地址：\n  http://www.yiban.cn/upload/system/yiban_20190731_469.apk\n   点击【没有账号】进行注册。输入手机号，点击获取短信验证码后输入图形验证码，图形验证码正确后验证码会以短信形式发送。直接点击【马上去校方认证】，填写学校(东北师范大学)、真实姓名和学号（录取通知书编号，2019开头的10位数字），点击【立即认证】，完成校方认证。"
+  },
+  {
+    "tag": "p",
+    "head": "Tips：",
+    "text": "   注册/认证完成后会自动与学校机构号成为好友，并且加入自己的学院以及2019新生学院。"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/2"
+  }
+]

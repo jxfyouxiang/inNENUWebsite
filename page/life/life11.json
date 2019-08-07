@@ -1,0 +1,55 @@
+[
+  {
+    "tag": "head",
+    "title": "G·R 美发沙龙",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "理发价格"
+  },
+  {
+    "tag": "p",
+    "text": " 剪发：￥20/30\n 烫发/染发：￥128起"
+  },
+  {
+    "tag": "p",
+    "head": "会员卡",
+    "text": " 剪发卡：储值￥100元，剪发￥16\n 烫染卡：￥300——八折 ￥500——7折 ￥1000——六折"
+  },
+  {
+    "tag": "title",
+    "text": "店铺环境"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/life/GR1.jpg"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/life/GR2.jpg"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/life/GR3.jpg"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/life/GR4.jpg"
+  },
+  {
+    "tag": "p",
+    "text": "   本部校区附近比较好的医院有吉林大学白求恩第一医院、中心医院与中日联谊医院。"
+  },
+  {
+    "tag": "p",
+    "head": "活动",
+    "text": "   开学期间办理剪发会员卡，当次剪发免费。"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/7"
+  }
+]
