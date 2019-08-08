@@ -2,7 +2,7 @@
  * @Author: Mr.Hope
  * @Date: 2019-08-07 11:05:26
  * @LastEditors: Mr.Hope
- * @LastEditTime: 2019-08-07 14:07:06
+ * @LastEditTime: 2019-08-07 23:54:20
  * @Description: 处理keyword
  */
 
@@ -23,19 +23,40 @@ const resolveJsonName = jsonName => {
 };
 
 // 获得关键词
-const keywords = JSON.parse(fs.readFileSync('./page/keywords.json', 'utf-8'));
+const keywords = JSON.parse(fs.readFileSync('./keywords.json', 'utf-8'));
+// 获得文件夹列表
+const forderList = fs.readdirSync('./page');
+
+forderList.forEach(forder => {
+  if (forder !== 'keywords.json') {
+    const jsonList = fs.readdirSync(`./page/${forder}`);
+
+    jsonList.forEach(json => {
+      const jsonName = json.slice(0, -5);
+      const content = JSON.parse(fs.readFileSync(`./page/${forder}/${json}`, 'utf-8'));
+
+      if (!keywords[jsonName]) keywords[jsonName] = {};
+      keywords[jsonName].title = content[0].title;
+      keywords[jsonName].desc = [];
+
+      content.forEach(element => {
+        if (element.tag === 'title') keywords[jsonName].desc.push(element.text);
+      });
+    });
+  }
+})
 
 // 写入title
-Object.keys(keywords).forEach(x => {
-  const { path } = resolveJsonName(x);
-  const content = JSON.parse(fs.readFileSync(`./page/${path}.json`, 'utf-8'));
+// Object.keys(keywords).forEach(x => {
+//   const { path } = resolveJsonName(x);
+//   const content = JSON.parse(fs.readFileSync(`./page/${path}.json`, 'utf-8'));
 
-  keywords[x].title = content[0].title;
-  keywords[x].desc = [];
+//   keywords[x].title = content[0].title;
+//   keywords[x].desc = [];
 
-  content.forEach(element => {
-    if (element.tag === 'title') keywords[x].desc.push(element.text);
-  });
-});
+//   content.forEach(element => {
+//     if (element.tag === 'title') keywords[x].desc.push(element.text);
+//   });
+// });
 
 fs.writeFileSync('./page/keywords.json', JSON.stringify(keywords));
