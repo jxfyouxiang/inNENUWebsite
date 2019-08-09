@@ -12,12 +12,12 @@
     "content": [
       {
         "text": "类型及评定时间",
-        "icon": "/module/icon/typeTime.svg",
+        "icon": "/module/icon/scholarship.svg",
         "aim": "study1"
       },
       {
         "text": "特别说明",
-        "icon": "/module/icon/explanation.svg",
+        "icon": "/module/icon/attentionItem.svg",
         "aim": "study2"
       }
     ]

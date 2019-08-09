@@ -1,0 +1,87 @@
+[
+  {
+    "tag": "head",
+    "title": "图书馆楼层平面图",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "本部平面图"
+  },
+  {
+    "tag": "img",
+    "src": "https://nenuyouth.com/Res/guide/image/BenbuB1F.jpg",
+    "desc": "负一层"
+  },
+  {
+    "tag": "img",
+    "src": "https://nenuyouth.com/Res/guide/image/Benbu1F.jpg",
+    "desc": "一层"
+  },
+
+  {
+    "tag": "img",
+    "src": "https://nenuyouth.com/Res/guide/image/Benbu2F.jpg",
+    "desc": "二层"
+  },
+  {
+    "tag": "img",
+    "src": "https://nenuyouth.com/Res/guide/image/Benbu3F.jpg",
+    "desc": "三层"
+  },
+  {
+    "tag": "img",
+    "src": "https://nenuyouth.com/Res/guide/image/Benbu4F.jpg",
+    "desc": "四层"
+  },
+  {
+    "tag": "img",
+    "src": "https://nenuyouth.com/Res/guide/image/Benbu5F.jpg",
+    "desc": "五层"
+  },
+  {
+    "tag": "img",
+    "src": "https://nenuyouth.com/Res/guide/image/Benbu6F.jpg",
+    "desc": "六层"
+  },
+  {
+    "tag": "img",
+    "src": "https://nenuyouth.com/Res/guide/image/Benbu7F.jpg",
+    "desc": "七层"
+  },
+  {
+    "tag": "title",
+    "text": "净月平面图"
+  },
+  {
+    "tag": "img",
+    "src": "https://nenuyouth.com/Res/guide/image/Jingyue1F.jpg",
+    "desc": "一层"
+  },
+
+  {
+    "tag": "img",
+    "src": "https://nenuyouth.com/Res/guide/image/Jingyue2F.jpg",
+    "desc": "二层"
+  },
+  {
+    "tag": "img",
+    "src": "https://nenuyouth.com/Res/guide/image/Jingyue3F.bmp",
+    "desc": "三层"
+  },
+  {
+    "tag": "img",
+    "src": "https://nenuyouth.com/Res/guide/image/Jingyue4F.bmp",
+    "desc": "四层"
+  },
+  {
+    "tag": "img",
+    "src": "https://nenuyouth.com/Res/guide/image/Jingyue5F.jpg",
+    "desc": "五层"
+  },
+  {
+    "tag": "foot",
+    "desc": "信息来源：图书馆官网"
+  }
+]

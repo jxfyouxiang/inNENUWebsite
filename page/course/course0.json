@@ -12,22 +12,22 @@
     "content": [
       {
         "text": "通识教育课程",
-        "icon": "/icon/tabPage/course.svg",
+        "icon": "/module/icon/typeTime.svg",
         "aim": "course1"
       },
       {
         "text": "专业教育课程",
-        "icon": "/icon/tabPage/course.svg",
+        "icon": "/module/icon/typeTime.svg",
         "aim": "course2"
       },
       {
         "text": "发展课程课程",
-        "icon": "/icon/tabPage/course.svg",
+        "icon": "/module/icon/typeTime.svg",
         "aim": "course3"
       },
       {
         "text": "绩点计算方法",
-        "icon": "/icon/tabPage/calculator.svg",
+        "icon": "/module/icon/typeTime.svg",
         "aim": "course4"
       },
       {
@@ -90,7 +90,7 @@
       },
       {
         "text": "专业排名",
-        "icon": "/module/icon/majorRanking.svg",
+        "icon": "/module/icon/nenuRanking.svg",
         "aim": "course11"
       }
     ]

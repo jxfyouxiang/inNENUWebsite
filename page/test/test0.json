@@ -11,14 +11,9 @@
     "head": "体测",
     "content": [
       {
-        "text": "体测时间",
+        "text": "体测简介",
         "icon": "/module/icon/bodyMeasureTime.svg",
         "aim": "test1"
-      },
-      {
-        "text": "测试项目及权重",
-        "icon": "/module/icon/item.svg",
-        "aim": "test2"
       },
       {
         "text": "测试成绩说明",
@@ -52,6 +47,11 @@
         "aim": "test7"
       },
       {
+        "text": "东北师范大学英语水平测试",
+        "icon": "/module/icon/English.svg",
+        "aim": "test2"
+      },
+      {
         "text": "四六级报考",
         "icon": "/module/icon/CET.svg",
         "aim": "test8"
@@ -66,27 +66,12 @@
         "text": "计算机等级考试说明",
         "icon": "/module/icon/computer.svg",
         "aim": "test9"
-      },
-      {
-        "text": "计算机二级",
-        "icon": "/module/icon/computer.svg",
-        "aim": "test10"
-      },
-      {
-        "text": "计算机三级",
-        "icon": "/module/icon/computer.svg",
-        "aim": "test11"
-      },
-      {
-        "text": "计算机四级",
-        "icon": "/module/icon/computer.svg",
-        "aim": "test12"
       }
     ]
   },
   {
     "tag": "foot",
     "author": "Mr.Hope",
-    "time": "2019/4/13"
+    "time": "2019/8/7"
   }
 ]
