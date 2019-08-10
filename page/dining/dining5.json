@@ -6,8 +6,20 @@
     "contact": true
   },
   {
+    "tag": "p",
+    "text": "二食堂于2019年暑假期间进行了装修，共三层楼。"
+  },
+  {
     "tag": "img",
     "src": "https://pic.kuaizhan.com/g1/M01/6C/CC/CgpQU1l8VESANLrsAADDaSbHfIY8042344/imageView/v1/thumbnail/640x0"
+  },
+  {
+    "tag": "title",
+    "text": "一楼"
+  },
+  {
+    "tag": "p",
+    "text": "超市、复印店、美妆店、杂货店、修电脑修手机的店等"
   },
   {
     "tag": "title",
