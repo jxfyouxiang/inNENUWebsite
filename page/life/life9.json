@@ -47,17 +47,6 @@
     "text": "   待补充..."
   },
   {
-    "tag": "list",
-    "head": false,
-    "content": [
-      {
-        "text": "急救办法",
-        "icon": "/icon/heart.svg",
-        "aim": "life10"
-      }
-    ]
-  },
-  {
     "tag": "foot",
     "author": "Mr.Hope",
     "time": "2019/8/1"
