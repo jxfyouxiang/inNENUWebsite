@@ -33,15 +33,15 @@
       },
       {
         "id": 4,
-        "latitude": 43.86409,
-        "longitude": 125.33468,
-        "name": "北门",
-        "detail": "东北师范大学北门"
+        "latitude": 43.86393,
+        "longitude": 125.33015,
+        "name": "西北门",
+        "detail": "东北师范大学西北门"
       },
       {
         "id": 5,
-        "latitude": 43.86356,
-        "longitude": 125.32991,
+        "latitude": 43.86373,
+        "longitude": 125.32926,
         "name": "附属幼儿园北门",
         "detail": "东北师范大学附属幼儿园北门"
       },
@@ -49,8 +49,8 @@
         "id": 6,
         "latitude": 43.86409,
         "longitude": 125.33468,
-        "name": "东北门",
-        "detail": "东北师范大学东北门"
+        "name": "北门",
+        "detail": "东北师范大学北门"
       },
       {
         "id": 7,
@@ -145,22 +145,22 @@
       },
       {
         "id": 20,
-        "latitude": 43.86239,
+        "latitude": 43.86221,
         "longitude": 125.33097,
         "name": "化学学院",
         "detail": "东北师范大学化学学院"
       },
       {
         "id": 21,
-        "latitude": 43.86171,
-        "longitude": 125.32998,
+        "latitude": 43.86336,
+        "longitude": 125.32840,
         "name": "心理学院",
         "detail": "东北师范大学心理学院"
       },
       {
         "id": 22,
-        "latitude": 43.86289,
-        "longitude": 125.32819,
+        "latitude": 43.86268,
+        "longitude": 125.32826,
         "name": "马克思主义学部",
         "detail": "东北师范大学马克思主义学部"
       },
@@ -189,8 +189,8 @@
         "id": 26,
         "latitude": 43.8611,
         "longitude": 125.32707,
-        "name": "外语学院",
-        "detail": "东北师范大学外语学院"
+        "name": "外国语学院",
+        "detail": "东北师范大学外国语学院"
       },
       {
         "id": 27,
@@ -222,11 +222,10 @@
       },
       {
         "id": 31,
-        "latitude": 43.86171,
-        "longitude": 125.32998,
-        "title": "东北师范大学教育学部",
-        "name": "田家炳教育楼",
-        "detail": "东北师范大学田家炳教育楼(教育学部)"
+        "latitude": 43.86170,
+        "longitude": 125.32983,
+        "name": "教育学部",
+        "detail": "东北师范大学教育学部"
       },
       {
         "id": 32,
@@ -434,8 +433,8 @@
       },
       {
         "id": 61,
-        "latitude": 43.86188,
-        "longitude": 125.33137,
+        "latitude": 43.86194,
+        "longitude": 125.33490,
         "name": "静湖",
         "detail": "东北师范大学静湖"
       }

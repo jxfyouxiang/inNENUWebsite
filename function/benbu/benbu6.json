@@ -1,24 +1,26 @@
 [
   {
     "tag": "head",
-    "title": "东北门",
+    "title": "北门",
     "display": false
   },
   {
     "tag": "swiper",
     "url": [
-      "https://pic.kuaizhan.com/g2/M00/7B/F0/CgpQVFl63yKAX_eMABKbcZnJE1Q5356069/imageView/v1/thumbnail/640x0"
+      "https://mp.nenuyouth.com/img/scence/benbu/northGate.jpg"
     ]
   },
   {
     "tag": "title",
-    "text": "东北门"
+    "text": "北门"
   },
   {
     "tag": "p",
-    "text": "这是离三舍最近的校门，正对着动植物公园门口，下车往左望分别就是三舍D、C、B、A，走两步就到了，所以很多同学打的回校都会让司机开到这个门。"
+    "text": "这是离三舍最近的校门，正对着动植物公园门口，下车往左望分别就是三舍D(留学生公寓)、C、B、A，走两步就到了，同学们如果打车回学校可以让师傅们开到这个门。"
   },
   {
-    "tag": "foot"
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/08/11"
   }
 ]
