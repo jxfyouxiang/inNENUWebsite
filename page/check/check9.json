@@ -7,7 +7,7 @@
   },
   {
     "tag": "p",
-    "text": "\n   由于报到情况多变，本页面仅供参考。如有信息变更，Mr.Hope会尽快对本页进行更新。\n  由于2019年报道细则暂未推出，本页内容可能在报道前还有更改。"
+    "text": "\n   本页信息已经基本确定，如有更改会弹出通知。"
   },
   {
     "tag": "img",
@@ -116,73 +116,8 @@
     "text": "   须提供相关证明向录取学院请假，请假时间一般不得超过两周。未请假或逾期不报到者除因不可抗力等正当事由外，视为自动放弃入学资格。"
   },
   {
-    "tag": "title",
-    "text": "报到(接待)时间"
-  },
-  {
-    "tag": "p",
-    "text": "   2019年8月13日至2019年8月16日(更详细的时间会在报到前更新)"
-  },
-  {
-    "tag": "title",
-    "text": "报到(接待)地点"
-  },
-  {
-    "tag": "p",
-    "text": "   本部校区在同心路上(化院、排球场门前对着的那条路)"
-  },
-  {
-    "tag": "img",
-    "src": "https://mp.nenuyouth.com/img/check/check7.jpg",
-    "desc": "本部摆台地点示意图"
-  },
-  {
-    "tag": "img",
-    "src": "https://mp.nenuyouth.com/img/check/check8.jpg",
-    "desc": "本部摆台分布示意图"
-  },
-  {
-    "tag": "img",
-    "src": "https://mp.nenuyouth.com/img/check/check10.jpg"
-  },
-  {
-    "tag": "img",
-    "src": "https://mp.nenuyouth.com/img/check/check11.jpg"
-  },
-  {
-    "tag": "img",
-    "src": "https://mp.nenuyouth.com/img/check/check12.jpg",
-    "desc": "本部迎新现场"
-  },
-  {
-    "tag": "img",
-    "src": "https://mp.nenuyouth.com/img/check/check9.jpg",
-    "desc": "本部摆台旁的学生证展板(图片中是Mr.Hope本人哦)"
-  },
-  {
-    "tag": "p",
-    "text": "   (如果当天下雨可能在北苑食堂一楼)"
-  },
-  {
-    "tag": "p",
-    "text": "   净月校区在净月图书馆门前广场"
-  },
-  {
-    "tag": "img",
-    "src": "https://mp.nenuyouth.com/img/check/jingyueNow.jfif"
-  },
-  {
-    "tag": "img",
-    "src": "https://mp.nenuyouth.com/img/check/jingyue.jfif",
-    "desc": "净月摆台地点示意图"
-  },
-  {
-    "tag": "p",
-    "text": "   (如果下雨可能在一食堂)"
-  },
-  {
     "tag": "foot",
     "author": "沈竞泽、Mr.Hope",
-    "time": "2019/8/2"
+    "time": "2019/8/12"
   }
 ]

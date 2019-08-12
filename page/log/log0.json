@@ -82,11 +82,14 @@
       {
         "text": "V 2.0开发日志",
         "aim": "log15"
+      },
+      {
+        "text": "V 2.1开发日志",
+        "aim": "log15"
       }
     ]
   },
   {
-    "tag": "foot",
-    "author": "Mr.Hope"
+    "tag": "foot"
   }
 ]

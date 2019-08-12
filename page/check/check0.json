@@ -53,6 +53,11 @@
     "head": "报到流程",
     "content": [
       {
+        "text": "报到时间地点",
+        "icon": "/module/icon/libraryTime.svg",
+        "aim": "check9"
+      },
+      {
         "text": "报到流程",
         "icon": "/module/icon/list.svg",
         "aim": "check9"
@@ -87,6 +92,6 @@
   {
     "tag": "foot",
     "author": "Mr.Hope",
-    "time": "2019/7/23"
+    "time": "2019/8/11"
   }
 ]

@@ -48,8 +48,33 @@
     "url": "https://mp.nenuyouth.com/file/xsc/scholarship.png"
   },
   {
+    "tag": "doc",
+    "docName": "校长奖学金申请表.docx",
+    "url": "https://mp.nenuyouth.com/file/xsc/xiaozhang.docx"
+  },
+  {
+    "tag": "doc",
+    "docName": "一等奖学金申请表.docx",
+    "url": "https://mp.nenuyouth.com/file/xsc/yideng.docx"
+  },
+  {
+    "tag": "doc",
+    "docName": "二等奖学金申请表.docx",
+    "url": "https://mp.nenuyouth.com/file/xsc/erdeng.docx"
+  },
+  {
+    "tag": "doc",
+    "docName": "三等奖学金申请表.docx",
+    "url": "https://mp.nenuyouth.com/file/xsc/sandeng.docx"
+  },
+  {
+    "tag": "doc",
+    "docName": "单项奖学金申请表.docx",
+    "url": "https://mp.nenuyouth.com/file/xsc/danxiang.docx"
+  },
+  {
     "tag": "foot",
     "author": "Mr.Hope",
-    "time": "2019/8/1"
+    "time": "2019/8/12"
   }
 ]

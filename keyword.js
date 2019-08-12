@@ -2,7 +2,7 @@
  * @Author: Mr.Hope
  * @Date: 2019-08-07 11:05:26
  * @LastEditors: Mr.Hope
- * @LastEditTime: 2019-08-07 23:54:20
+ * @LastEditTime: 2019-08-12 14:30:53
  * @Description: 处理keyword
  */
 
@@ -28,7 +28,7 @@ const keywords = JSON.parse(fs.readFileSync('./keywords.json', 'utf-8'));
 const forderList = fs.readdirSync('./page');
 
 forderList.forEach(forder => {
-  if (forder !== 'keywords.json') {
+  if (forder !== 'keywords.json' && forder !== 'log') {
     const jsonList = fs.readdirSync(`./page/${forder}`);
 
     jsonList.forEach(json => {
