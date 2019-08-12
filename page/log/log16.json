@@ -2,9 +2,7 @@
   {
     "tag": "head",
     "title": "V 2.1更新日志",
-    "grey": true,
-    "aimDepth": 1,
-    "aim": "currentLog"
+    "grey": true
   },
   {
     "tag": "p",
