@@ -15,17 +15,6 @@
   },
   {
     "tag": "list",
-    "head": false,
-    "content": [
-      {
-        "text": "接站",
-        "icon": "/module/icon/pickup.svg",
-        "aim": "check5"
-      }
-    ]
-  },
-  {
-    "tag": "list",
     "content": [
       {
         "text": "到本部",
@@ -52,6 +41,16 @@
       {
         "text": "去净月",
         "aim": "check20"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "content": [
+      {
+        "text": "接站",
+        "icon": "/module/icon/pickup.svg",
+        "aim": "check5"
       }
     ]
   },

@@ -37,7 +37,7 @@
       },
       {
         "text": "统一身份认证",
-        "icon": "/icon/about.svg",
+        "icon": "/icon/tabPage/about.svg",
         "aim": "network3"
       }
     ]

@@ -2,6 +2,7 @@
   {
     "tag": "head",
     "title": "校园周边",
+    "grey": true,
     "shareable": true,
     "contact": true
   },
