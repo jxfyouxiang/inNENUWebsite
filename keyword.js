@@ -2,7 +2,7 @@
  * @Author: Mr.Hope
  * @Date: 2019-08-07 11:05:26
  * @LastEditors: Mr.Hope
- * @LastEditTime: 2019-08-12 14:30:53
+ * @LastEditTime: 2019-08-14 16:45:08
  * @Description: 处理keyword
  */
 
@@ -60,3 +60,8 @@ forderList.forEach(forder => {
 // });
 
 fs.writeFileSync('./page/keywords.json', JSON.stringify(keywords));
+
+// 更新page版本号
+const pageVersion = fs.readFileSync('./pageVersion.json', 'utf-8');
+
+fs.writeFileSync('./pageVersion.json', Number(pageVersion) + 1);
