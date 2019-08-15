@@ -77,6 +77,10 @@
     "head": "开学活动",
     "content": [
       {
+        "text": "体检",
+        "aim": "check13"
+      },
+      {
         "text": "军训",
         "aim": "FAQ5"
       },

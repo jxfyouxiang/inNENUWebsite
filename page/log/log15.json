@@ -60,16 +60,6 @@
     "text": "对QQ和微信环境进行判断，更好的进行兼容"
   },
   {
-    "tag": "list",
-    "content": [
-      {
-        "text": "历史更新",
-        "desc": "点击查看",
-        "aim": "log0"
-      }
-    ]
-  },
-  {
     "tag": "foot",
     "author": "Mr.Hope"
   }

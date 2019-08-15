@@ -2,7 +2,7 @@
  * @Author: Mr.Hope
  * @Date: 2019-08-07 11:05:26
  * @LastEditors: Mr.Hope
- * @LastEditTime: 2019-08-14 16:45:08
+ * @LastEditTime: 2019-08-15 09:03:19
  * @Description: 处理keyword
  */
 
@@ -27,6 +27,7 @@ const keywords = JSON.parse(fs.readFileSync('./keywords.json', 'utf-8'));
 // 获得文件夹列表
 const forderList = fs.readdirSync('./page');
 
+// 写入关键词内容
 forderList.forEach(forder => {
   if (forder !== 'keywords.json' && forder !== 'log') {
     const jsonList = fs.readdirSync(`./page/${forder}`);
@@ -46,19 +47,7 @@ forderList.forEach(forder => {
   }
 })
 
-// 写入title
-// Object.keys(keywords).forEach(x => {
-//   const { path } = resolveJsonName(x);
-//   const content = JSON.parse(fs.readFileSync(`./page/${path}.json`, 'utf-8'));
-
-//   keywords[x].title = content[0].title;
-//   keywords[x].desc = [];
-
-//   content.forEach(element => {
-//     if (element.tag === 'title') keywords[x].desc.push(element.text);
-//   });
-// });
-
+// 读取旧版本号
 fs.writeFileSync('./page/keywords.json', JSON.stringify(keywords));
 
 // 更新page版本号
