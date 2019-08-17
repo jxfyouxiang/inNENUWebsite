@@ -35,6 +35,12 @@
         "aim": "card1"
       },
       {
+        "text": "校园卡充值",
+        "desc": "无需圈存",
+        "icon": "/module/icon/pay.svg",
+        "aim": "card9"
+      },
+      {
         "text": "使用前准备",
         "desc": "新卡到手后",
         "icon": "/module/icon/prepare.svg",

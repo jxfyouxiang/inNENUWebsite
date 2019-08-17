@@ -90,6 +90,11 @@
       "爱护校园卡"
     ]
   },
+  "card9": {
+    "keywords": [
+      "校园卡密码"
+    ]
+  },
   "check0": {
     "keywords": [
       "报道"
@@ -230,6 +235,23 @@
   "FAQ6": {
     "keywords": [
       "DET"
+    ]
+  },
+  "network2": {
+    "keywords": [
+      "WIFI"
+    ]
+  },
+  "network3": {
+    "keywords": [
+      "校园网账号",
+      "校园邮箱",
+      "密码"
+    ]
+  },
+  "network4": {
+    "keywords": [
+      "网费"
     ]
   }
 }
