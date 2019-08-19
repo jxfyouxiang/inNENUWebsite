@@ -37,15 +37,15 @@
         "aim": "corporation7"
       },
       {
+        "text": "师说曲艺社",
+        "aim": "corporation8"
+      },
+      {
         "text": "心理协会",
         "aim": "corporation1"
       },
       {
         "text": "翩鸿汉服社",
-        "aim": "corporation1"
-      },
-      {
-        "text": "师说曲艺社",
         "aim": "corporation1"
       },
       {
@@ -195,6 +195,6 @@
   {
     "tag": "foot",
     "author": "Mr.Hope",
-    "time": "2019/4/9"
+    "time": "2019/8/19"
   }
 ]

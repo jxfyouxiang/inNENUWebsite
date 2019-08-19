@@ -36,20 +36,13 @@
     "text": "    丰富自己的生活，拓展自己的交际，感受音乐的美好。将青春的声音弹给你听，青音吉他社欢迎你的加入!"
   },
   {
-    "tag": "img",
-    "src": "https://mp.nenuyouth.com/img/corporation/guitar1.jpg"
-  },
-  {
-    "tag": "img",
-    "src": "https://mp.nenuyouth.com/img/corporation/guitar2.jpg"
-  },
-  {
-    "tag": "img",
-    "src": "https://mp.nenuyouth.com/img/corporation/guitar3.jpg"
-  },
-  {
-    "tag": "img",
-    "src": "https://mp.nenuyouth.com/img/corporation/guitar4.jpg"
+    "tag": "swiper",
+    "url": [
+      "https://mp.nenuyouth.com/img/corporation/guitar1.jpg",
+      "https://mp.nenuyouth.com/img/corporation/guitar2.jpg",
+      "https://mp.nenuyouth.com/img/corporation/guitar3.jpg",
+      "https://mp.nenuyouth.com/img/corporation/guitar4.jpg"
+    ]
   },
   {
     "tag": "foot"
