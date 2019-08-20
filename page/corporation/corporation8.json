@@ -1,9 +1,15 @@
 [
   {
     "tag": "head",
-    "title": "天宇协会",
+    "title": "师说曲艺社",
     "shareable": true,
     "contact": true
+  },
+  {
+    "tag": "intro",
+    "name": "师说曲艺社",
+    "src": "https://mp.nenuyouth.com/img/corporation/quyi.png",
+    "desc": "一起欢乐，一起进步"
   },
   {
     "tag": "p",

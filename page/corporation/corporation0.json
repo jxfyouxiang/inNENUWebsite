@@ -21,6 +21,11 @@
         "icon": "https://mp.nenuyouth.com/img/corporation/jizhetuan.png"
       },
       {
+        "text": "师说曲艺社",
+        "aim": "corporation8",
+        "icon": "https://mp.nenuyouth.com/img/corporation/quyi.png"
+      },
+      {
         "text": "青音吉他社",
         "aim": "corporation4"
       },
@@ -35,10 +40,6 @@
       {
         "text": "天宇协会",
         "aim": "corporation7"
-      },
-      {
-        "text": "师说曲艺社",
-        "aim": "corporation8"
       },
       {
         "text": "心理协会",
