@@ -12,6 +12,16 @@
     "desc": "东北师范大学校学生会新媒体中心是东北师范大学最有影响力的新媒体平台。"
   },
   {
+    "tag": "gzh",
+    "icon": "/image/nenuyouth.png",
+    "gzhName": "东师青年",
+    "title": "纳新 | 青春遇见梦想，你我刚好在场",
+    "desc": "校会君期待着你的到来",
+    "src": "http://mmbiz.qpic.cn/mmbiz_jpg/s67UCDghNJlEPh1vnuZzeniaj13zwQpJKeA1G28LhRlupVvyKqTdq4ico5NxnMFSFiaYtJgnicnrwI1ZJnOOLx5OHQ/0?wx_fmt=jpeg",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA5MTQ4NjUzMg==&mid=2651880739&idx=1&sn=97cf36edeebeb49b8c51f1de9977c728&chksm=8b9f7d08bce8f41e302ecb79878a93f430428153fd864767d11ce9f147881263c079ddfaea53&mpshare=1&scene=22",
+    "remark": "纳新推送"
+  },
+  {
     "tag": "p",
     "head": " ",
     "text": "&emsp;&emsp;“东师青年”微信公众号是由东北师范大学团委，学生会主办，新媒体中心承担运营的以为学校广大师生提供优质服务为宗旨，以宣扬“勤奋创新，为人师表”的校风为重要目标的微信公众平台。"
@@ -37,6 +47,7 @@
     "text": "&emsp;&emsp;我们的努力不断取得回报:新媒体的发展前景是广阔的，但是竞争压力也是巨大的，东师青年面对未来的发展有坚定的信念，独立的思考，不断创新的能力，这里会不断注入新的血液，坚持不懈的研讨开发，在为东师提供更多优质服务的同时，进行深入的研究，使新媒体平台登上新高度!"
   },
   {
-    "tag": "foot"
+    "tag": "foot",
+    "author": ""
   }
 ]

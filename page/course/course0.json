@@ -65,22 +65,6 @@
   },
   {
     "tag": "list",
-    "head": "公共课程",
-    "content": [
-      {
-        "text": "体育课说明",
-        "icon": "/module/icon/bodyMeasureTime.svg",
-        "aim": "course15"
-      },
-      {
-        "text": "网课说明",
-        "icon": "/module/icon/wifi.svg",
-        "aim": "course14"
-      }
-    ]
-  },
-  {
-    "tag": "list",
     "head": "东师及专业排名",
     "content": [
       {

@@ -48,6 +48,7 @@
       },
       {
         "text": "校园卡丢失",
+        "desc": "立即挂失",
         "icon": "/module/icon/lost.svg",
         "aim": "card3"
       },
@@ -77,6 +78,6 @@
   },
   {
     "tag": "foot",
-    "time": "2019/8/17"
+    "time": "2019/8/29"
   }
 ]

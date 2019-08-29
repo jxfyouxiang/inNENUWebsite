@@ -24,6 +24,38 @@
   },
   {
     "tag": "list",
+    "head": "公共课程",
+    "content": [
+      {
+        "text": "体育课说明",
+        "icon": "/module/icon/bodyMeasureTime.svg",
+        "aim": "study4"
+      },
+      {
+        "text": "网课说明",
+        "icon": "/module/icon/wifi.svg",
+        "aim": "study4"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "英语课程说明",
+    "content": [
+      {
+        "text": "英语课程简介",
+        "icon": "/module/icon/English.svg",
+        "aim": "study6"
+      },
+      {
+        "text": "免修评定",
+        "icon": "/module/icon/English.svg",
+        "aim": "study7"
+      }
+    ]
+  },
+  {
+    "tag": "list",
     "head": "校园管理条例",
     "content": [
       {
