@@ -3,3 +3,5 @@
 /server
 /page.zip
 /function.zip
+/node_modules
+package-lock.json

@@ -1,0 +1,24 @@
+{
+  "name": "miniprogram-server",
+  "version": "1.0.0",
+  "description": "![作者：Mr.Hope](https://img.shields.io/badge/作者-Mr.Hope-blue.svg)",
+  "scripts": {
+    "page": "node ./lib/page.js",
+    "function": "node ./lib/function.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:Mr-Hope/miniprogramWebsite.git"
+  },
+  "author": "Mr.Hope",
+  "license": "GPL",
+  "devDependencies": {
+    "child_process": "^1.0.2",
+    "eslint": "^6.2.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "dependencies": {
+    "ftp": "^0.3.10"
+  }
+}

@@ -8,6 +8,17 @@
   },
   {
     "tag": "list",
+    "head": "简介",
+    "content": [
+      {
+        "text": "上课时间、地点",
+        "icon": "/module/icon/scholarship.svg",
+        "aim": "study8"
+      }
+    ]
+  },
+  {
+    "tag": "list",
     "head": "奖学金",
     "content": [
       {

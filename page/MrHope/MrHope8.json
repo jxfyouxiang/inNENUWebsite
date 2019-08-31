@@ -1,0 +1,40 @@
+[
+  {
+    "tag": "head",
+    "title": "Windows相关服务",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "list",
+    "head": "项目选择",
+    "content": [
+      {
+        "text": "预装正版win10——重装最新版win10",
+        "aim": "MrHope21"
+      },
+      {
+        "text": "预装正版win10——重装老版本win10",
+        "aim": "MrHope22"
+      },
+      {
+        "text": "预装正版win10——降级为Win7",
+        "aim": "MrHope23"
+      },
+      {
+        "text": "无预装系统——安装最新版Win10",
+        "aim": "MrHope24"
+      },
+      {
+        "text": "其他选项",
+        "aim": "MrHope25"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/29"
+  }
+]
