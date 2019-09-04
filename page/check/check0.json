@@ -83,7 +83,12 @@
         "aim": "check14"
       },
       {
-        "text": "体检、户口与其他",
+        "text": "入学体检",
+        "icon": "/icon/tabPage/heart.svg",
+        "aim": "check12"
+      },
+      {
+        "text": "户口、团组织关系与其他",
         "icon": "/module/icon/more.svg",
         "aim": "check13"
       }

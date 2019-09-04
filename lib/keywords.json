@@ -1,7 +1,24 @@
 {
+  "about1": {
+    "keywords": [
+      "学费",
+      "招生"
+    ]
+  },
+  "about2": {
+    "keywords": [
+      "校规",
+      "校纪"
+    ]
+  },
+  "about3": {
+    "keywords": [
+      "QQ群"
+    ]
+  },
   "apartment0": {
     "keywords": [
-      "学校部门"
+      "部门"
     ]
   },
   "apartment1": {
@@ -15,19 +32,22 @@
   "apartment2": {
     "keywords": [
       "学生工作部",
-      "学生处"
+      "学生处",
+      "学工部"
     ]
   },
   "apartment3": {
     "keywords": [
-      "校办"
+      "校办",
+      "盖章"
     ]
   },
   "apartment4": {
     "keywords": [
       "校团委",
       "扬思网",
-      "B16"
+      "B16",
+      "团委章"
     ]
   },
   "apartment5": {
@@ -39,14 +59,20 @@
       "校车"
     ]
   },
-  "card0": {
+  "apartment6": {
     "keywords": [
-      "校园卡"
+      "急诊",
+      "生病",
+      "看病"
+    ]
+  },
+  "apartment13": {
+    "keywords": [
+      "保卫处"
     ]
   },
   "card1": {
     "keywords": [
-      "自助终端机",
       "圈存"
     ]
   },
@@ -87,42 +113,26 @@
   },
   "card8": {
     "keywords": [
-      "爱护校园卡"
+      "卡套"
     ]
   },
   "card9": {
     "keywords": [
-      "校园卡密码"
-    ]
-  },
-  "check0": {
-    "keywords": [
-      "报道"
+      "圈存",
+      "充值",
+      "支付宝",
+      "微信"
     ]
   },
   "check1": {
     "keywords": [
-      "专业分布"
+      "专业分布",
+      "校区"
     ]
   },
-  "check2": {
+  "check6": {
     "keywords": [
-      "火车"
-    ]
-  },
-  "check3": {
-    "keywords": [
-      "飞机"
-    ]
-  },
-  "check4": {
-    "keywords": [
-      "打车"
-    ]
-  },
-  "check5": {
-    "keywords": [
-      "接站"
+      "导航"
     ]
   },
   "check7": {
@@ -150,6 +160,11 @@
       "绿色通道",
       "贫困",
       "经济困难"
+    ]
+  },
+  "check12": {
+    "keywords": [
+      "智慧团建"
     ]
   },
   "check13": {
@@ -210,31 +225,15 @@
       "封寝"
     ]
   },
-  "FAQ2": {
-    "keywords": [
-      "QQ群"
-    ]
-  },
   "FAQ3": {
     "keywords": [
       "QQ群"
-    ]
-  },
-  "FAQ4": {
-    "keywords": [
-      "学费",
-      "招生"
     ]
   },
   "FAQ5": {
     "keywords": [
       "学费",
       "招生"
-    ]
-  },
-  "FAQ6": {
-    "keywords": [
-      "DET"
     ]
   },
   "network2": {
@@ -252,6 +251,11 @@
   "network4": {
     "keywords": [
       "网费"
+    ]
+  },
+  "study6": {
+    "keywords": [
+      "DET"
     ]
   }
 }

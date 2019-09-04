@@ -1,13 +1,13 @@
 [
   {
     "tag": "head",
-    "title": "校园卡",
+    "title": "校园卡功能",
     "shareable": true,
     "contact": true
   },
   {
     "tag": "title",
-    "text": "校园卡主要功能"
+    "text": "主要功能"
   },
   {
     "tag": "p",
