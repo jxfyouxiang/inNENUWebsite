@@ -45,7 +45,7 @@
       {
         "text": "网课说明",
         "icon": "/module/icon/wifi.svg",
-        "aim": "study4"
+        "aim": "study5"
       }
     ]
   },
@@ -66,19 +66,8 @@
     ]
   },
   {
-    "tag": "list",
-    "head": "校园管理条例",
-    "content": [
-      {
-        "text": "常见犯错以及相关处罚规定",
-        "icon": "/icon/tabPage/about.svg",
-        "aim": "study3"
-      }
-    ]
-  },
-  {
     "tag": "foot",
     "author": "Mr.Hope",
-    "time": "2019/4/13"
+    "time": "2019/9/6"
   }
 ]
