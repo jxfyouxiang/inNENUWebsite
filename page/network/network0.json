@@ -33,12 +33,12 @@
       {
         "text": "计费",
         "icon": "/module/icon/pay.svg",
-        "aim": "network4"
+        "aim": "network3"
       },
       {
         "text": "统一身份认证",
         "icon": "/icon/tabPage/about.svg",
-        "aim": "network3"
+        "aim": "account1"
       }
     ]
   },
