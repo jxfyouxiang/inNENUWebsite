@@ -41,6 +41,11 @@
     ]
   },
   {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/account/emailAdvance.png",
+    "desc": "高级设置"
+  },
+  {
     "tag": "title",
     "text": "使用统一身份认证登录"
   },
