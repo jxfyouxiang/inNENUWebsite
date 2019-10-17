@@ -44,8 +44,8 @@
     "text": "东北师范大学职工：付 春\n2019年10月8日"
   },
   {
-    "tag": "foot",
-    "author": "付春",
-    "desc": "此页面为转载"
+    "tag": "p",
+    "style": "display:block;text-align:center;font-size:14px;",
+    "text": "此页面为转载"
   }
 ]
