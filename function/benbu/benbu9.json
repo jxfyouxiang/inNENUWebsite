@@ -1,0 +1,52 @@
+[
+  {
+    "tag": "head",
+    "title": "三舍A",
+    "display": false
+  },
+  {
+    "tag": "swiper",
+    "url": [
+      "https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=d27778e4ae6eddc432eabca958b2dd98/730e0cf3d7ca7bcbd6c5912ebd096b63f624a871.jpg"
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "三舍A"
+  },
+  {
+    "tag": "p",
+    "text": "   住女生，共15层。入住外语学院英语系(包括公费师范生)、物理、文学、化学学院、环境学院(大一)学生。有电梯4台。一楼有自助终端机。"
+  },
+  {
+    "tag": "title",
+    "text": "门禁时间"
+  },
+  {
+    "tag": "p",
+    "text": "6:00-22:30"
+  },
+  {
+    "tag": "title",
+    "text": "供电时间"
+  },
+  {
+    "tag": "p",
+    "text": "早6:00-8:00，中12:00-13:30，晚15:30-23:00(周一至周五)\n6:00-23:00(周六至周日)"
+  },
+  {
+    "tag": "list",
+    "head": false,
+    "content": [
+      {
+        "text": "更多寝室相关",
+        "aim": "dorm0"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/08/11"
+  }
+]

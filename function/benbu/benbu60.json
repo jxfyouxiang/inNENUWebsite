@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "head",
+    "title": "生命广场",
+    "display": false
+  },
+  {
+    "tag": "swiper",
+    "url": [
+      "http://www.nenu.edu.cn/_upload/article/images/f7/2b/ca5fcb3a4714afce54a4b7488fb5/f6306a96-cd67-40ab-8a91-6d982d8ca2fa.jpg",
+      "http://www.nenu.edu.cn/_upload/article/images/be/7d/b790c92948b2b0fe5fea5376af18/7f9e0f26-d5e8-4bcc-8c3e-7c2b799e9068.jpg"
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "简介"
+  },
+  {
+    "tag": "p",
+    "text": "生命广场位于生命科学学院大楼前，东边包含一生命长廊，以及数颗大树，西边紧邻体育馆。春天来临之时，生命广场上的花朵竞相绽放，给生命广场增添了几分春色，洋溢着生命的气息。"
+  },
+  {
+    "tag": "foot",
+    "auther": "fy",
+    "time": "2019/4/9"
+  }
+]

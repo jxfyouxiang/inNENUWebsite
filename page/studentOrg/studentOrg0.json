@@ -1,0 +1,80 @@
+[
+  {
+    "tag": "head",
+    "title": "学生组织",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "list",
+    "head": "学生组织",
+    "content": [
+      {
+        "text": "学生会",
+        "icon": "/image/nenuyouth.png",
+        "aim": "studentOrg1"
+      },
+      {
+        "text": "研究生会",
+        "icon": "https://mp.nenuyouth.com/img/studentOrg/yanHui.png",
+        "aim": "studentOrg2"
+      },
+      {
+        "text": "学生社团联合会",
+        "icon": "https://mp.nenuyouth.com/img/studentOrg/sheLian.png",
+        "aim": "studentOrg3"
+      },
+      {
+        "text": "红烛志愿者协会",
+        "icon": "https://mp.nenuyouth.com/img/studentOrg/hongZhu.png",
+        "aim": "studentOrg4"
+      },
+      {
+        "text": "厚普公益学校",
+        "icon": "https://mp.nenuyouth.com/img/studentOrg/houpu.png",
+        "aim": "studentOrg5"
+      },
+      {
+        "text": "校新媒体中心",
+        "icon": "/image/nenuyouth.png",
+        "aim": "studentOrg12"
+      },
+      {
+        "text": "《东师青年》报社",
+        "icon": "https://mp.nenuyouth.com/img/studentOrg/baoShe.png",
+        "aim": "studentOrg6"
+      },
+      {
+        "text": "“东师之声”校园广播站",
+        "icon": "https://mp.nenuyouth.com/img/studentOrg/dongShiZhiSheng.png",
+        "aim": "studentOrg7"
+      },
+      {
+        "text": "大学生艺术团",
+        "icon": "https://mp.nenuyouth.com/img/studentOrg/daYi.png",
+        "aim": "studentOrg8"
+      },
+      {
+        "text": "大学生体育俱乐部",
+        "icon": "https://mp.nenuyouth.com/img/studentOrg/daTi.png",
+        "aim": "studentOrg9"
+      },
+      {
+        "text": "大学生创业中心",
+        "icon": "https://mp.nenuyouth.com/img/studentOrg/daChuang.png",
+        "aim": "studentOrg10"
+      },
+      {
+        "text": "青年马克思主义者学习研究会",
+        "icon": "https://mp.nenuyouth.com/img/studentOrg/qingMaXueHui.png",
+        "aim": "studentOrg11"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/10"
+  }
+]

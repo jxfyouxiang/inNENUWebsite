@@ -1,0 +1,48 @@
+[
+  {
+    "tag": "head",
+    "title": "录取通知书",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "录取通知书内容"
+  },
+  {
+    "tag": "p",
+    "text": "  录取通知书包含录取通知书一份、新生入学指南一本、征兵宣传单一张，资助政策介绍册一本、家庭经济困难学生认定身份申请表一张，免费师范生还包含了协议。不含手机卡、银行卡亦或校园卡。(强调一下免得各位担心自己少东西了)"
+  },
+  {
+    "tag": "title",
+    "text": "学号"
+  },
+  {
+    "tag": "p",
+    "text": "  录取通知书编号即为学号。"
+  },
+  {
+    "tag": "p",
+    "head": "关于协议",
+    "text": "  协议只有免费师范生会有，协议书一共四份，"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/check/check24.png",
+    "desc": "图为录取通知书邮寄袋"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/check/check26.jpg"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/check/check25.jpg",
+    "desc": "图为录取通知书"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/11"
+  }
+]

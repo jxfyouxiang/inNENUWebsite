@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "head",
+    "title": "行政楼",
+    "display": false
+  },
+  {
+    "tag": "swiper",
+    "url": [
+      "https://mp.nenuyouth.com/img/nenuyouth.png"
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "行政楼"
+  },
+  {
+    "tag": "p",
+    "head": "简介",
+    "text": "   行政楼位于东北师范大学正门的左边，离图书馆较近，是校级行政部门和校领导的办公场所。教务处、学生处、党委都在这里办公。"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/08/11"
+  }
+]

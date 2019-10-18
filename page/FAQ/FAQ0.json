@@ -1,0 +1,98 @@
+[
+  {
+    "tag": "head",
+    "title": "新生问答",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "list",
+    "head": "报道之前",
+    "content": [
+      {
+        "text": "报到时间",
+        "aim": "check8"
+      },
+      {
+        "text": "录取通知书内容详情",
+        "aim": "FAQ8"
+      },
+      {
+        "text": "导员姓名与联系方式",
+        "aim": "FAQ10"
+      },
+      {
+        "text": "新生入学前课程学习",
+        "aim": "FAQ11"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "找到组织",
+    "content": [
+      {
+        "text": "专业所属学院",
+        "aim": "about1"
+      },
+      {
+        "text": "学校学院官方迎新群",
+        "aim": "about3"
+      },
+      {
+        "text": "老乡群",
+        "aim": "FAQ3"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "报道相关",
+    "content": [
+      {
+        "text": "大学第一天",
+        "aim": "FAQ1"
+      },
+      {
+        "text": "坐火车到校",
+        "aim": "check2"
+      },
+      {
+        "text": "坐飞机到校",
+        "aim": "check3"
+      },
+      {
+        "text": "关于打车的提示",
+        "aim": "check4"
+      },
+      {
+        "text": "关于接站",
+        "aim": "check5"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "开学活动",
+    "content": [
+      {
+        "text": "体检",
+        "aim": "check13"
+      },
+      {
+        "text": "军训",
+        "aim": "FAQ5"
+      },
+      {
+        "text": "英语分班考试",
+        "aim": "test6"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/7/29"
+  }
+]

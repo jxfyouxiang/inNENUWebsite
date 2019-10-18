@@ -1,0 +1,35 @@
+[
+  {
+    "tag": "head",
+    "title": "网络课程说明",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "p",
+    "text": "   网络课程上课时间自由，平时作业也很少，期末考试的难度也不大，大家可以在大学生涯中酌情选择几门网课修读。"
+  },
+  {
+    "tag": "title",
+    "text": "智慧树"
+  },
+  {
+    "tag": "doc",
+    "docName": "使用文档.pdf",
+    "url": "https://mp.nenuyouth.com/file/study/zhihuishu.pdf"
+  },
+  {
+    "tag": "title",
+    "text": "尔雅"
+  },
+  {
+    "tag": "doc",
+    "docName": "尔雅学生使用手册.pdf",
+    "url": "https://mp.nenuyouth.com/file/study/erya.pdf"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/7/22"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "tag": "head",
+    "title": "报到时间地点",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "p",
+    "style": "color:#888;font-size:14px;",
+    "text": "\n本页信息为2019年情况"
+  },
+  {
+    "tag": "title",
+    "text": "报到(接待)时间"
+  },
+  {
+    "tag": "p",
+    "head": "临时接待",
+    "text": "2019年8月14日13:30-8月15日13:30"
+  },
+  {
+    "tag": "p",
+    "head": "正式接待",
+    "text": "2019年8月15日13:30-22:30\n8月16日7:00-22:00"
+  },
+  {
+    "tag": "title",
+    "text": "报到(接待)地点"
+  },
+  {
+    "tag": "p",
+    "head": "临时接待",
+    "text": "地点：各学院教学楼"
+  },
+  {
+    "tag": "p",
+    "head": "正式接待"
+  },
+  {
+    "tag": "doc",
+    "docName": "摆台分布示意图.pdf",
+    "url": "https://mp.nenuyouth.com/file/checkin2019.pdf"
+  },
+  {
+    "tag": "p",
+    "text": "   本部校区在同心路上(化院、排球场门前对着的那条路)"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/check/check7.jpg",
+    "desc": "本部摆台地点示意图"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/check/check10.jpg"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/check/check11.jpg"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/check/check12.jpg",
+    "desc": "本部迎新现场"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/check/check9.jpg",
+    "desc": "本部摆台旁的学生证展板(图片中是Mr.Hope本人哦)"
+  },
+  {
+    "tag": "p",
+    "text": "   净月校区在净月图书馆门前广场"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/check/jingyueNow.jfif"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/12"
+  }
+]

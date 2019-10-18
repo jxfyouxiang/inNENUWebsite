@@ -1,0 +1,35 @@
+[
+  {
+    "tag": "head",
+    "title": "统一身份认证",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "p",
+    "head": "统一身份认证介绍",
+    "text": "   学校为每个人分配了一个统一身份，这个身份就是您的邮箱账号和密码。无论是您登录校园网，进入内网查看通知，查看是否欠书未还，查看校园卡余额以及消费记录，进入本科生或研究生选课平台，查成绩，查课表，访问BB平台、本科教学服务系统等等，各种与信息查询提交的有关的操作都需要这个统一身份。"
+  },
+  {
+    "tag": "list",
+    "head": "了解更多",
+    "content": [
+      {
+        "text": "统一身份认证",
+        "icon": "/icon/tabPage/about.svg",
+        "aim": "account1"
+      },
+      {
+        "text": "校园邮箱",
+        "icon": "/icon/tabPage/about.svg",
+        "aim": "account2"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/15"
+  }
+]

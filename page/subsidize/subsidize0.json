@@ -1,0 +1,34 @@
+[
+  {
+    "tag": "head",
+    "title": "资助",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "p",
+    "head": "关于资助",
+    "text": "   同学们，当你收到大学录取通知书的时候，面对学费和生活费，欣喜的同时是否有着一丝忧虑？如果你有这样的困惑，不必担心。作为一所倡导“尊重的教育”理念的师范大学，学校一直十分重视家庭经济困难学生的资助工作，构建了以国家助学贷款为主体，勤工助学为主导，“奖、贷、助、补、减”五位一体的家庭经济困难学生资助工作体系，并成立了专门从事资助工作的机构——学生资助管理中心。"
+  },
+  {
+    "tag": "list",
+    "content": [
+      {
+        "icon": "/module/icon/subsidizeAuthentication.svg",
+        "text": "资助申请流程",
+        "aim": "subsidize1"
+      },
+      {
+        "icon": "/module/icon/list.svg",
+        "text": "资助工作机构简介",
+        "aim": "subsidize2"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/10"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "inenu-resourse",
+  "version": "1.0.0",
+  "description": "inNENU 小程序资源文件",
+  "scripts": {
+    "upload:page": "node ./lib/page.js",
+    "upload:function": "node ./lib/function.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:Mr-Hope/miniprogramWebsite.git"
+  },
+  "author": "Mr.Hope",
+  "devDependencies": {
+    "child_process": "^1.0.2",
+    "eslint": "^6.5.1"
+  },
+  "dependencies": {
+    "ftp": "^0.3.10"
+  }
+}

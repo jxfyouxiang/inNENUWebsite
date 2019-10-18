@@ -1,0 +1,20 @@
+[
+  {
+    "tag": "head",
+    "title": "七舍",
+    "display": false
+  },
+  {
+    "tag": "title",
+    "text": "七舍"
+  },
+  {
+    "tag": "p",
+    "text": "七舍主要接纳男性研究生入住(硕士、博士)。"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/08/11"
+  }
+]

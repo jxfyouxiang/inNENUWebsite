@@ -1,0 +1,78 @@
+[
+  {
+    "tag": "head",
+    "title": "寝室",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "list",
+    "head": "寝室分布",
+    "content": [
+      {
+        "text": "本部校区",
+        "aim": "dorm1"
+      },
+      {
+        "text": "净月校区",
+        "aim": "dorm2"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "寝室环境",
+    "content": [
+      {
+        "text": "室内布局",
+        "aim": "dorm3"
+      },
+      {
+        "text": "公共区域",
+        "aim": "dorm4"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "其他相关",
+    "content": [
+      {
+        "text": "寝室门禁时间",
+        "icon": "/module/icon/guard.svg",
+        "aim": "dorm5"
+      },
+      {
+        "text": "寝室供电",
+        "icon": "/module/icon/electric.svg",
+        "aim": "dorm6"
+      },
+      {
+        "text": "寝室供网",
+        "icon": "/module/icon/network.svg",
+        "aim": "dorm7"
+      },
+      {
+        "text": "走读与调宿",
+        "icon": "/icon/tabPage/about.svg",
+        "aim": "dorm9"
+      }
+    ]
+  },
+  {
+    "tag": "p",
+    "head": "禁用物品",
+    "text": "   宿舍内严禁使用违章电器，如电熨斗、直板夹、电热宝、电吹风、电炉、电水壶、电热毯、热得快等大功率电器。床帘和吊椅也是不允许的。(只可以在夜间挂蚊帐)"
+  },
+  {
+    "tag": "p",
+    "head": " ",
+    "text": "   元旦的时候男女生可以互串寝室！同时也请大家文明串寝"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/1"
+  }
+]

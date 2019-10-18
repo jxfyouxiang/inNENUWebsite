@@ -1,0 +1,42 @@
+[
+  {
+    "tag": "head",
+    "title": "三舍C",
+    "display": false
+  },
+  {
+    "tag": "swiper",
+    "url": [
+      "https://mp.nenuyouth.com/img/scence/benbu/jingLake.webp"
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "三舍C"
+  },
+  {
+    "tag": "p",
+    "text": "住女生，共21层，东师建筑高度的巅峰。入住地理、生科、数学、环境、教育、历史学院、马克思主义学部、心理学院学生。有电梯4台。一楼有自助终端机。"
+  },
+  {
+    "tag": "title",
+    "text": "门禁时间"
+  },
+  {
+    "tag": "p",
+    "text": "6:00-22:30"
+  },
+  {
+    "tag": "title",
+    "text": "供电时间"
+  },
+  {
+    "tag": "p",
+    "text": "早6:00-8:00，中12:00-13:30，晚15:30-23:00(周一至周五)\n6:00-23:00(周六至周日)"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/08/11"
+  }
+]

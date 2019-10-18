@@ -1,0 +1,20 @@
+[
+  {
+    "tag": "head",
+    "title": "八舍",
+    "display": false
+  },
+  {
+    "tag": "title",
+    "text": "八舍"
+  },
+  {
+    "tag": "p",
+    "text": "东北师范大学八舍主要接纳文学院、地理科学学院以及化学学院的研究生入住。"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/08/11"
+  }
+]

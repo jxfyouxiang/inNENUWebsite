@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "head",
+    "title": "小南门",
+    "display": false
+  },
+  {
+    "tag": "swiper",
+    "url": [
+      "https://mp.nenuyouth.com/img/scence/benbu/littleSouthGate.jfif"
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "小南门"
+  },
+  {
+    "tag": "p",
+    "text": "小南门位于田径场旁，附近有价格比较实惠的水果摊，还有很多人宵夜的不二之选——烧烤。从小南门出去去文昌路是最近的。平日里可以从这个门和同学一起去搓一顿。"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/08/11"
+  }
+]

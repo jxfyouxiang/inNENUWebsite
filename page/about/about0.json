@@ -1,0 +1,47 @@
+[
+  {
+    "tag": "head",
+    "title": "学校概况",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "list",
+    "head": "本科招生情况",
+    "content": [
+      {
+        "text": "2019年本科开设专业",
+        "icon": "/icon/tabPage/about.svg",
+        "aim": "about1"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "新生",
+    "content": [
+      {
+        "text": "2019年新生群一览",
+        "icon": "/icon/tabPage/about.svg",
+        "aim": "about3"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "校园管理条例",
+    "content": [
+      {
+        "text": "常见犯错以及相关处罚规定",
+        "icon": "/icon/tabPage/about.svg",
+        "aim": "about2"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/4/13"
+  }
+]

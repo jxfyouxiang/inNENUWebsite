@@ -1,0 +1,50 @@
+[
+  {
+    "tag": "head",
+    "title": "计算机等级考试说明",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "p",
+    "text": "   全国计算机等级考试(National Computer Rank Examination，以下简称 NCRE)，是经原国家教育委员会(现教育部)批准，由教育部考试中心主办，面向社会，用于考查应试人员计算机应用知识与技能的全国性计算机水平考试体系。"
+  },
+  {
+    "tag": "p",
+    "text": "   目前《全国计算机等级考试考试大纲(2018 年版)》为最新版本考纲，自2018年3月开始实施。"
+  },
+  {
+    "tag": "p",
+    "text": "   2019年全国计算机等级考试(NCRE)将举办四次考试，时间分别为3月30日至4月1日(第54次)、6月1日(第55次)、9月21日至23日(第56次)及12月7日(第57次)。其中3月和9月考试开考全部级别全部科目，6月和12月考试开考一、二级全部科目。"
+  },
+  {
+    "tag": "p",
+    "head": "详情说明"
+  },
+  {
+    "tag": "list",
+    "head": false,
+    "content": [
+      {
+        "text": "计算机二级",
+        "icon": "/module/icon/computer.svg",
+        "aim": "test10"
+      },
+      {
+        "text": "计算机三级",
+        "icon": "/module/icon/computer.svg",
+        "aim": "test11"
+      },
+      {
+        "text": "计算机四级",
+        "icon": "/module/icon/computer.svg",
+        "aim": "test12"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/7"
+  }
+]

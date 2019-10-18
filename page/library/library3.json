@@ -1,0 +1,37 @@
+[
+  {
+    "tag": "head",
+    "title": "图书馆开门时间",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "本部校区"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/library/benbuOpenTime.png"
+  },
+  {
+    "tag": "title",
+    "text": "田家炳楼"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/library/TianjiabingOpenTime.png"
+  },
+  {
+    "tag": "title",
+    "text": "净月校区"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/library/jingyueOpenTIme.png"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/10"
+  }
+]

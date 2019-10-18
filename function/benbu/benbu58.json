@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "head",
+    "title": "田径场",
+    "display": false
+  },
+  {
+    "tag": "swiper",
+    "url": [
+      "http://gym.nenu.edu.cn/images/1.16_01.jpg",
+      "https://mmbiz.qpic.cn/mmbiz_jpg/s67UCDghNJnaAiaoWQiaiaNhibf5ibC8N9Tia8viaQoml0JtIkw2uvOkjUk9hvtc36YebSicCR07jPe8LAF2ZRicQ7o4VnQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1"
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "简介"
+  },
+  {
+    "tag": "p",
+    "text": "   田径场位于七舍与静湖之间，邻近南苑食堂。军训、运动会等大型活动开展的地方。田径场的草坪保养得非常好，一般不允许进草坪。每天早上和晚上的时候，都有许多同学来田径场跑步锻炼身体。"
+  },
+  {
+    "tag": "foot",
+    "auther": "fy",
+    "time": "2019/4/9"
+  }
+]

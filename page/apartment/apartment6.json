@@ -1,0 +1,43 @@
+[
+  {
+    "tag": "head",
+    "title": "校医院",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "list",
+    "content": [
+      {
+        "text": "校医院简介",
+        "aim": "apartment9"
+      },
+      {
+        "text": "补办公费医疗手册",
+        "aim": "apartment7"
+      },
+      {
+        "text": "楼层分布",
+        "aim": "apartment10"
+      },
+      {
+        "text": "注意事项",
+        "aim": "apartment8"
+      },
+      {
+        "text": "科室介绍",
+        "aim": "apartment11"
+      },
+      {
+        "text": "联系电话",
+        "aim": "apartment12"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "desc": "信息来源：校医院官网",
+    "time": "2019/8/14"
+  }
+]

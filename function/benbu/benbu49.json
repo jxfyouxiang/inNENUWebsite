@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "head",
+    "title": "中通快递点",
+    "display": false
+  },
+  {
+    "tag": "swiper",
+    "url": [
+      "https://mp.nenuyouth.com/img/nenuyouth.png"
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "简介"
+  },
+  {
+    "tag": "p",
+    "text": "在绿园餐厅后米娜，离寝室非常远，唯一能抄的进路就是从小南门出去。所以如果不喜欢花费二十分钟去取快递的话可以考虑换一家快递。"
+  },
+  {
+    "tag": "foot",
+    "auther": "fy",
+    "time": "2019/4/9"
+  }
+]

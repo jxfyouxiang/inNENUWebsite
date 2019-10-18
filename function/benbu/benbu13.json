@@ -1,0 +1,20 @@
+[
+  {
+    "tag": "head",
+    "title": "四舍",
+    "display": false
+  },
+  {
+    "tag": "title",
+    "text": "四舍"
+  },
+  {
+    "tag": "p",
+    "text": "东北师范大学四舍欢迎您的入住！"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/08/11"
+  }
+]

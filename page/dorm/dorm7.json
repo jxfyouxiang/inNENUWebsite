@@ -1,0 +1,42 @@
+[
+  {
+    "tag": "head",
+    "title": "宿舍供网",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "供网时间"
+  },
+  {
+    "tag": "p",
+    "head": "本部校区",
+    "text": " 三舍：6点至0点。\n 体育公寓：军事化管理无网络"
+  },
+  {
+    "tag": "p",
+    "head": "净月校区",
+    "text": " 春华、日华、秋华、光华公寓：6:00—(次日)1:00\n 夏华公寓：全天\n 天华公寓：与供电时间一致"
+  },
+  {
+    "tag": "p",
+    "head": "Tips：",
+    "text": "  研究生宿舍全天供网。\n  本科生寝室不屏蔽手机信号。"
+  },
+  {
+    "tag": "list",
+    "content": [
+      {
+        "text": "了解更多校园网相关",
+        "icon": "/module/icon/network.svg",
+        "aim": "network0"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/4/9"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "tag": "head",
+    "title": "生活",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "list",
+    "content": [
+      {
+        "text": "洗浴",
+        "icon": "/module/icon/shower.svg",
+        "aim": "life1"
+      },
+      {
+        "text": "理发",
+        "icon": "/module/icon/haircut.svg",
+        "aim": "life2"
+      },
+      {
+        "text": "照相",
+        "icon": "/module/icon/takePhoto.svg",
+        "aim": "life3"
+      },
+      {
+        "text": "打印",
+        "icon": "/module/icon/copy.svg",
+        "aim": "life4"
+      },
+      {
+        "text": "超市",
+        "icon": "/module/icon/shop.svg",
+        "aim": "life5"
+      },
+      {
+        "text": "快递",
+        "icon": "/module/icon/express.svg",
+        "aim": "life6"
+      },
+      {
+        "text": "地铁卡公交卡",
+        "icon": "/icon/tabPage/card.svg",
+        "aim": "life7"
+      },
+      {
+        "text": "ATM",
+        "icon": "/module/icon/atm.svg",
+        "aim": "life8"
+      },
+      {
+        "text": "就医",
+        "icon": "/icon/heart.svg",
+        "aim": "life9"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/1"
+  }
+]

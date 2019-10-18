@@ -1,0 +1,21 @@
+[
+  {
+    "tag": "head",
+    "title": "更新中",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "更新中"
+  },
+  {
+    "tag": "p",
+    "text": "   社长还没来得及写介绍哟~"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/4/9"
+  }
+]

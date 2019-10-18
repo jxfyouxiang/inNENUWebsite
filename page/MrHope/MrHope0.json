@@ -1,0 +1,29 @@
+[
+  {
+    "tag": "head",
+    "title": "Hope Studio简介",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "Hope Studio简介"
+  },
+  {
+    "tag": "p",
+    "text": "   Hope Studio又称希望工作室，成立于2017年，是一家年轻、朝气、有活力有思想的工作室。工作室目前面向大众接受各类开发项目。"
+  },
+  {
+    "tag": "p",
+    "head": "人员组成",
+    "text": " 工作室人数：1\n 工作室室长：Mr.Hope"
+  },
+  {
+    "tag": "p",
+    "head": "人员招聘",
+    "text": "工作室希望能够吸收更多成员，要求对编程有一定的了解和掌握。如有想法请联系Mr.Hope，薪酬待定。"
+  },
+  {
+    "tag": "foot"
+  }
+]

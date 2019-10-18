@@ -1,0 +1,70 @@
+[
+  {
+    "tag": "head",
+    "title": "图书馆",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "list",
+    "head": "图书馆",
+    "content": [
+      {
+        "text": "馆藏分布",
+        "icon": "/module/icon/bookCollection.svg",
+        "aim": "library2"
+      },
+      {
+        "text": "图书馆楼层平面图",
+        "icon": "/icon/tabPage/map.svg",
+        "aim": "library9"
+      },
+      {
+        "text": "书目检索",
+        "icon": "/module/icon/lost.svg",
+        "aim": "library7"
+      },
+      {
+        "text": "借书权限",
+        "icon": "/module/icon/checkOut.svg",
+        "aim": "library4"
+      },
+      {
+        "text": "图书馆开门时间",
+        "icon": "/module/icon/libraryTime.svg",
+        "aim": "library3"
+      },
+      {
+        "text": "图书馆风貌",
+        "icon": "/module/icon/library.svg",
+        "aim": "library1"
+      },
+      {
+        "text": "其他服务",
+        "icon": "/module/icon/service.svg",
+        "aim": "library5"
+      },
+      {
+        "text": "借阅流程",
+        "icon": "/module/icon/attentionItem.svg",
+        "aim": "library8"
+      },
+      {
+        "text": "图书馆简介",
+        "icon": "/module/icon/attentionItem.svg",
+        "aim": "library6"
+      },
+      {
+        "text": "电子阅览室",
+        "icon": "/module/icon/computer.svg",
+        "aim": "library10"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/10"
+  }
+]

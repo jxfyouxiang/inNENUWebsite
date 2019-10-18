@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "head",
+    "title": "西门(正门)",
+    "display": false
+  },
+  {
+    "tag": "swiper",
+    "url": [
+      "https://mp.nenuyouth.com/img/scence/benbu/westGate1.jfif",
+      "https://mp.nenuyouth.com/img/scence/benbu/westGate2.jfif"
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "西门(正门)"
+  },
+  {
+    "tag": "p",
+    "text": "西门也是学校的正门，进门正对着就是学校的图书馆。"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/08/11"
+  }
+]

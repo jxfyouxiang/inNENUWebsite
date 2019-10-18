@@ -1,0 +1,47 @@
+[
+  {
+    "tag": "head",
+    "title": "学校机构说明",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "list",
+    "content": [
+      {
+        "text": "党委学生工作部",
+        "aim": "apartment2"
+      },
+      {
+        "text": "学生心理健康教育中心",
+        "aim": "apartment1"
+      },
+      {
+        "text": "学校办公室",
+        "aim": "apartment3"
+      },
+      {
+        "text": "校团委",
+        "aim": "apartment4"
+      },
+      {
+        "text": "后勤管理处",
+        "aim": "apartment5"
+      },
+      {
+        "text": "校医院",
+        "aim": "apartment6"
+      },
+      {
+        "text": "保卫科",
+        "aim": "apartment13"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/15"
+  }
+]

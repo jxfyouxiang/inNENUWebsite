@@ -1,0 +1,48 @@
+[
+  {
+    "tag": "head",
+    "title": "统一身份认证",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "获得账号(邮箱)"
+  },
+  {
+    "tag": "p",
+    "text": "   请您访问http://account.nenu.edu.cn，在网页中使用学号(10位数字：录取通知书编号与校园卡卡号即是学号)与默认密码(Nenu+身份证后六位，X用1代替)进行登录。\n   登陆后，您就可以在“账号信息”中查看自己的邮箱号(****@nenu.edu.cn)"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/account/account1.png"
+  },
+  {
+    "tag": "title",
+    "text": "修改密码及密保绑定"
+  },
+  {
+    "tag": "p",
+    "text": "   请您访问http://account.nenu.edu.cn进行登录。\n   点击“修改密码”，修改初始密码。为了您找回密码时的便捷，建议您点击“绑定邮箱/绑定手机/绑定微信/保护问题”进行个人信息的绑定，便于密码丢失后自助找回。由于身份证号可能被他人获得，为了您的资金、消费以及课程成绩安全，建议您务必更换默认密码"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/account/account2.png"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/account/account3.png"
+  },
+  {
+    "tag": "title",
+    "text": "使用统一身份认证登录"
+  },
+  {
+    "tag": "p",
+    "text": "   请作为新生的您注意，除了在访问http://account.nenu.edu.cn需要使用学号获取自己的邮箱账号外，在其他的认证网页中，您最好都都使用邮箱账号作为用户名登录(不带@nenu.edu.cn后缀)。这是因为由很大一部分认证登录界面是不支持使用学号作为用户名登陆的，使用学号会提示用户名密码错误！而目前Mr.Hope没有发现哪一处反而不支持邮箱，所以建议您牢记自己的邮箱，并养成使用邮箱登录校内身份认证的习惯，这样可以少去很多麻烦。"
+  },
+  {
+    "tag": "foot",
+    "time": "2019/9/7"
+  }
+]

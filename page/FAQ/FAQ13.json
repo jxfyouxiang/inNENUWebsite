@@ -1,0 +1,53 @@
+[
+  {
+    "tag": "head",
+    "title": "近日遭遇",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "p",
+    "style": "color:#888;font-size:14px;",
+    "text": "以下观点仅代表个人看法"
+  },
+  {
+    "tag": "title",
+    "text": "事件一已移除"
+  },
+  {
+    "tag": "p",
+    "head": "澄清",
+    "text": "原事件一中当事人联系了Mr.Hope，纯属误会，请大家不要有任何多余想法。"
+  },
+  {
+    "tag": "title",
+    "text": "事件二"
+  },
+  {
+    "tag": "p",
+    "text": "  请大家看事件截图"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/0815-3.jpg",
+    "desc": "一个例子"
+  },
+  {
+    "tag": "p",
+    "text": "   人与人之间交流应该给对方一些尊重。Mr.Hope不需要您的礼貌用语，也不需要您的称呼，但是需要您的尊重。下面这个图片里，虽然全程只有一个道谢的表情，可是这是一个平等的交流，Mr.Hope得到了充分的尊重，这就足够了。"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/0815-4.jpg"
+  },
+  {
+    "tag": "p",
+    "head": "Tips",
+    "text": "   类似案例交流方式的，即日起Mr.Hope直接屏蔽，不再做任何回复，请同学们周知。"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/9/2"
+  }
+]

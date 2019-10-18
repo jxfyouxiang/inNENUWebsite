@@ -1,0 +1,53 @@
+[
+  {
+    "tag": "head",
+    "title": "书目检索",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "OPAC使用指南"
+  },
+  {
+    "tag": "p",
+    "text": "先访问图书馆主页 (http://www.library.nenu.edu.cn/)"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/library/libraryGuide1.jpg",
+    "desc": "检索首页"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/library/libraryGuide2.jpg",
+    "desc": "检索结果列表"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/library/libraryGuide3.jpg",
+    "desc": "详细资料信息"
+  },
+  {
+    "tag": "title",
+    "text": "已借资料的查询与续借"
+  },
+  {
+    "tag": "p",
+    "text": "点击图书馆主页上“我的图书馆”链接"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/library/libraryGuide4.jpg",
+    "desc": "登录页面"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/library/libraryGuide5.jpg",
+    "desc": "我的图书馆页面"
+  },
+  {
+    "tag": "foot",
+    "desc": "信息来源：图书馆官网"
+  }
+]

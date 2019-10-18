@@ -1,0 +1,103 @@
+[
+  {
+    "tag": "head",
+    "title": "课程学习",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "易班网2019新生注册认证"
+  },
+  {
+    "tag": "p",
+    "text": "   请注意，目前校方认证已开放。"
+  },
+  {
+    "tag": "list",
+    "head": false,
+    "content": [
+      {
+        "text": "注册流程",
+        "aim": "FAQ12"
+      }
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "课程学习流程"
+  },
+  {
+    "tag": "p",
+    "text": "   点击图中的精品课程 ↓"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban1.jpg"
+  },
+  {
+    "tag": "p",
+    "text": "   之后点击右下角的我的 ↓"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban2.jpg"
+  },
+  {
+    "tag": "p",
+    "text": "   点击我的课群 ↓"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban3.jpg"
+  },
+  {
+    "tag": "p",
+    "text": "   点击下方的添加课程 ↓"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban4.jpg"
+  },
+  {
+    "tag": "p",
+    "text": "   输入邀请码“EHT9WM5Z” ↓"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban5.jpg"
+  },
+  {
+    "tag": "p",
+    "text": "   选择自己的学院 ↓"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban6.jpg"
+  },
+  {
+    "tag": "p",
+    "text": "   点击课群课程进行学习(在点击播放之后可能会黑屏几秒，请耐心等待)，点击在线考试进行考试(请注意只有三次考试机会)，点击在线作业进行作业的作答。"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban7.jpg"
+  },
+  {
+    "tag": "p",
+    "text": "   之后请留存好成绩并打印，开学交给新生辅导员。要求成绩达到60分以上。"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban8.jpg"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/FAQ/Yiban9.jpg"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/1"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "tag": "head",
+    "title": "校园卡",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "p",
+    "head": "校园卡说明",
+    "text": "   校园卡是您在东师校园内的通用消费卡以及身份认证卡，是您在东师的日常生活与学习中是非常重要的存在，一旦忘带或丢失校园卡您将会处处受阻。"
+  },
+  {
+    "tag": "list",
+    "content": [
+      {
+        "text": "校园卡主要用途说明",
+        "aim": "card7"
+      }
+    ]
+  },
+  {
+    "tag": "p",
+    "head": "校园卡消费功能介绍",
+    "text": "   由于校园卡是东师内部的“电子钱包”，学校为了保障您的资金安全，对校园卡进行了消费上的限制。每张校园卡的初始消费设置为：单次消费限额为20元，每日累计消费限额为100元。如果当日您的消费金额超过限额，则在刷卡时，您需要在刷卡机上输入密码才能完成消费。当然，您可以根据自身的消费习惯通过自助终端机修改消费限额，并定期更改校园卡密码。",
+    "src": "https://mp.nenuyouth.com/img/card/card1.jpg"
+  },
+  {
+    "tag": "list",
+    "content": [
+      {
+        "text": "自动终端机",
+        "icon": "/module/icon/atm.svg",
+        "aim": "card1"
+      },
+      {
+        "text": "校园卡充值",
+        "desc": "无需圈存",
+        "icon": "/module/icon/pay.svg",
+        "aim": "card9"
+      },
+      {
+        "text": "使用前准备",
+        "desc": "新卡到手后",
+        "icon": "/module/icon/prepare.svg",
+        "aim": "card2"
+      },
+      {
+        "text": "校园卡丢失",
+        "desc": "立即挂失",
+        "icon": "/module/icon/lost.svg",
+        "aim": "card3"
+      },
+      {
+        "text": "更多业务办理",
+        "desc": "信息化办",
+        "icon": "/module/icon/more.svg",
+        "aim": "card4"
+      },
+      {
+        "text": "常见故障及解决办法",
+        "icon": "/module/icon/error.svg",
+        "aim": "card5"
+      },
+      {
+        "text": "照片？？？",
+        "icon": "/module/icon/photo.svg",
+        "desc": "为什么它这么丑",
+        "aim": "card6"
+      },
+      {
+        "text": "爱护校园卡",
+        "icon": "/icon/tabPage/card.svg",
+        "aim": "card8"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "time": "2019/8/29"
+  }
+]

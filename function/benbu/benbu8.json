@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "head",
+    "title": "二舍",
+    "display": false
+  },
+  {
+    "tag": "swiper",
+    "url": [
+      "https://mp.nenuyouth.com/img/dorm/dorm2.webp"
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "二舍"
+  },
+  {
+    "tag": "p",
+    "text": "二舍主要接纳马克思主义学部和物理学院的研究生，一楼有校园快递服务中心——菜鸟驿站，对面就是北苑食堂。"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/08/11"
+  }
+]

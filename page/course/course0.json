@@ -1,0 +1,103 @@
+[
+  {
+    "tag": "head",
+    "title": "课程",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "list",
+    "head": "本科课程设置",
+    "content": [
+      {
+        "text": "通识教育课程",
+        "icon": "/module/icon/typeTime.svg",
+        "aim": "course1"
+      },
+      {
+        "text": "专业教育课程",
+        "icon": "/module/icon/typeTime.svg",
+        "aim": "course2"
+      },
+      {
+        "text": "发展课程课程",
+        "icon": "/module/icon/typeTime.svg",
+        "aim": "course3"
+      },
+      {
+        "text": "绩点计算方法",
+        "icon": "/module/icon/typeTime.svg",
+        "aim": "course4"
+      },
+      {
+        "text": "本科课程计划",
+        "icon": "/module/icon/plan.svg",
+        "aim": "course5"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "选课",
+    "content": [
+      {
+        "text": "选课内容",
+        "icon": "/module/icon/content.svg",
+        "aim": "course6"
+      },
+      {
+        "text": "选课流程",
+        "icon": "/module/icon/process.svg",
+        "aim": "course7"
+      },
+      {
+        "text": "选课操作系统",
+        "icon": "/module/icon/operate.svg",
+        "aim": "course8"
+      },
+      {
+        "text": "选课技巧",
+        "icon": "/module/icon/skill.svg",
+        "aim": "course9"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "东师及专业排名",
+    "content": [
+      {
+        "text": "东师排名",
+        "icon": "/module/icon/nenuRanking.svg",
+        "aim": "course10"
+      },
+      {
+        "text": "专业排名",
+        "icon": "/module/icon/nenuRanking.svg",
+        "aim": "course11"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "双学位、辅修与转专业",
+    "content": [
+      {
+        "text": "获取双学位与辅修",
+        "icon": "/icon/tabPage/course.svg",
+        "aim": "course13"
+      },
+      {
+        "text": "转专业实施办法及注意事项",
+        "icon": "/icon/tabPage/course.svg",
+        "aim": "course12"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/2"
+  }
+]

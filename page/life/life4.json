@@ -1,0 +1,46 @@
+[
+  {
+    "tag": "head",
+    "title": "打印",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "本部"
+  },
+  {
+    "tag": "p",
+    "head": "位置",
+    "text": "   浴池二楼、北苑超市旁、南苑、图书馆一楼、图书馆电子阅览室、北苑地下一楼"
+  },
+  {
+    "tag": "p",
+    "head": "位置",
+    "text": "   东师文昌路数码图文快印\n   地址：东师文昌路小南门东行30米绿园餐厅楼上中门二楼\n   黑白打印一律8分，激光彩色打印5角起，个人或拼单30元可送货\n  可开发票 效果好 速度快\n  营业时间 早7：00——晚10：30\n  QQ：2102257311 3279519252\n   手机/微信：\n3694307499   13843189514"
+  },
+  {
+    "tag": "title",
+    "text": "净月"
+  },
+  {
+    "tag": "p",
+    "head": "位置",
+    "text": "   二食堂超市对面复印店、师大图文复印店"
+  },
+  {
+    "tag": "gzh",
+    "icon": "/image/nenuyouth.png",
+    "gzhName": "东师青年",
+    "title": "东师史上最全的复印店数据大评估",
+    "desc": "快来走进东师青年和校会君一起看",
+    "src": "http://mmbiz.qpic.cn/mmbiz_jpg/s67UCDghNJlZj12wxUnVnmUZgOFJlZE8fToOYsx95sr68ia53XIH9heyQ5mo7owCibia4sU3X5uH8oMdk59icfelPw/0?wx_fmt=jpeg",
+    "url": "http://mp.weixin.qq.com/s/SIVZp56HZTmvMfqua2c_VQ",
+    "remark": "复印店数据评估"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/7/14"
+  }
+]

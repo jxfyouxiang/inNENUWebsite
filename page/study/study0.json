@@ -1,0 +1,73 @@
+[
+  {
+    "tag": "head",
+    "title": "学习",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "list",
+    "head": "日常学习",
+    "content": [
+      {
+        "text": "上课时间、地点",
+        "icon": "/module/icon/scholarship.svg",
+        "aim": "study8"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "奖学金",
+    "content": [
+      {
+        "text": "类型及评定时间",
+        "icon": "/module/icon/scholarship.svg",
+        "aim": "study1"
+      },
+      {
+        "text": "特别说明",
+        "icon": "/module/icon/attentionItem.svg",
+        "aim": "study2"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "公共课程",
+    "content": [
+      {
+        "text": "体育课说明",
+        "icon": "/module/icon/bodyMeasureTime.svg",
+        "aim": "study4"
+      },
+      {
+        "text": "网课说明",
+        "icon": "/module/icon/wifi.svg",
+        "aim": "study5"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "head": "英语课程说明",
+    "content": [
+      {
+        "text": "英语课程简介",
+        "icon": "/module/icon/English.svg",
+        "aim": "study6"
+      },
+      {
+        "text": "免修评定",
+        "icon": "/module/icon/English.svg",
+        "aim": "study7"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/9/6"
+  }
+]

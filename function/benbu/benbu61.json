@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "head",
+    "title": "静湖",
+    "display": false
+  },
+  {
+    "tag": "swiper",
+    "url": [
+      "http://www.nenu.edu.cn/_upload/article/images/63/e7/abe7144c40748d6a637bd2c2841f/82fa430f-e708-4a69-ad03-47230b8e9cf8.jpg",
+      "http://www.nenu.edu.cn/_upload/article/a3/f7/b03f8c1e4bb28b61770db9cb257c/75264b2f-2238-4e8c-af87-122ba22f243e.jpg"
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "简介"
+  },
+  {
+    "tag": "p",
+    "text": "   静湖位于北苑餐厅旁，湖上修建了小桥和亭子，内种植荷花，夏天来临之际，荷花和荷叶铺满湖面。冬天之时，湖水结成冰，供同学们滑冰玩乐，但需注意的是在结冰和化冰期间同学们一定不要到湖上玩耍。"
+  },
+  {
+    "tag": "foot",
+    "auther": "fy",
+    "time": "2019/4/9"
+  }
+]

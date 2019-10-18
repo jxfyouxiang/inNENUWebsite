@@ -1,0 +1,61 @@
+[
+  {
+    "tag": "head",
+    "title": "安卓邮件客户端设置",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "p",
+    "text": "   以安卓手机上的Gmail客户端为例"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/account/email1.jpg",
+    "desc": "选择”添加其他账号“"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/account/email2.jpg",
+    "desc": "选择”其他“"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/account/email3.jpg",
+    "desc": "输入电子邮箱地址后点击左下角的手动设置"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/account/email4.jpg",
+    "desc": "选择”个人(IMAP)“"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/account/email5.jpg",
+    "desc": "输入密码"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/account/email6.jpg",
+    "desc": "在接收服务器中输入”smtphz.qiye.163.com“"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/account/email7.jpg",
+    "desc": "在外发服务器中输入”smtphz.qiye.163.com“"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/account/email8.jpg",
+    "desc": "自行选择合适的同步频率"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/account/email9.jpg",
+    "desc": "选择合适的账号名称与发件人姓名"
+  },
+  {
+    "tag": "foot",
+    "time": "2019/9/7"
+  }
+]

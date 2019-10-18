@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "head",
+    "title": "校园周边",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "list",
+    "head": "吃喝玩乐",
+    "content": [
+      {
+        "text": "本部",
+        "aim": "nearby1"
+      },
+      {
+        "text": "净月",
+        "aim": "nearby2"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "time": "2019/8/10"
+  }
+]

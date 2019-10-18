@@ -1,0 +1,50 @@
+[
+  {
+    "tag": "head",
+    "title": "测试项目评分表",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "体重指数(BMI)评分表"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/test/BMI.png"
+  },
+  {
+    "tag": "title",
+    "text": "男生评分表"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/test/male.png"
+  },
+  {
+    "tag": "title",
+    "text": "女生评分表"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/test/female.png"
+  },
+  {
+    "tag": "title",
+    "text": "加分表"
+  },
+  {
+    "tag": "img",
+    "src": "https://mp.nenuyouth.com/img/test/addScore.png"
+  },
+  {
+    "tag": "p",
+    "head": "说明",
+    "text": " 1. 引体向上、一分钟仰卧起坐均为高优指标，学生成绩超过单项评分100分后，以超过的次数所对应的分数进行加分。(也就是说你的成绩比满分还好的话，会给你总成绩额外加分，而且你的成绩在哪个分段间就取最高的分数)\n 2. 1000米跑、800米跑均为低优指标，学生成绩低于单项评分100分后，以减少的秒数所对应的分数进行加分。"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/10"
+  }
+]

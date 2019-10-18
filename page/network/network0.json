@@ -1,0 +1,50 @@
+[
+  {
+    "tag": "head",
+    "title": "校园网",
+    "grey": true,
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "p",
+    "head": "校园网简介",
+    "text": "   当您在校内时，可以使用校园网来进行上网。目前东北师范大学与联通公司合作为您提供互联网访问服务，在日常使用时，可能会偶尔出现网速波动、延迟上升、网络不稳的情况，请您不要惊慌，这太正常了，就像您每天都要吃饭喝水一样。(•̀ω•́)✧"
+  },
+  {
+    "tag": "p",
+    "head": "校园网优势",
+    "text": "   使用校园网上网会被认证为东北师范大学企业用户，可以享有一些特权，比如免费下载知网论文。"
+  },
+  {
+    "tag": "list",
+    "head": "了解更多",
+    "content": [
+      {
+        "text": "有线上网",
+        "icon": "/module/icon/ethernet.svg",
+        "aim": "network1"
+      },
+      {
+        "text": "无线上网",
+        "icon": "/module/icon/wifi.svg",
+        "aim": "network2"
+      },
+      {
+        "text": "计费",
+        "icon": "/module/icon/pay.svg",
+        "aim": "network3"
+      },
+      {
+        "text": "统一身份认证",
+        "icon": "/icon/tabPage/about.svg",
+        "aim": "account1"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/15"
+  }
+]

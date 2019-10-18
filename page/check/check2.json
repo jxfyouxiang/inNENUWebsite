@@ -1,0 +1,62 @@
+[
+  {
+    "tag": "head",
+    "title": "坐火车到校",
+    "shareable": true,
+    "contact": true
+  },
+  {
+    "tag": "title",
+    "text": "长春站"
+  },
+  {
+    "tag": "p",
+    "text": "   长春站有南北出站口。南出站口有直达本部校区的公交线路。北站口有两个，分别西侧的B1和东侧的B2。在下火车进入出站地下通道时，头顶有告示牌注明自己即将到达的是哪个出站口。新生报到期间，会有专人接站。"
+  },
+  {
+    "tag": "list",
+    "content": [
+      {
+        "text": "到本部",
+        "aim": "check17"
+      },
+      {
+        "text": "到净月",
+        "aim": "check18"
+      }
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "长春西站"
+  },
+  {
+    "tag": "list",
+    "head": " ",
+    "content": [
+      {
+        "text": "去本部",
+        "aim": "check19"
+      },
+      {
+        "text": "去净月",
+        "aim": "check20"
+      }
+    ]
+  },
+  {
+    "tag": "list",
+    "content": [
+      {
+        "text": "接站",
+        "icon": "/module/icon/pickup.svg",
+        "aim": "check5"
+      }
+    ]
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/8/10"
+  }
+]

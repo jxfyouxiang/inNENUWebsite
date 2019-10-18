@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "head",
+    "title": "留学生公寓",
+    "display": false
+  },
+  {
+    "tag": "swiper",
+    "url": [
+      "https://mp.nenuyouth.com/img/dorm/dorm3D.webp"
+    ]
+  },
+  {
+    "tag": "title",
+    "text": "留学生公寓"
+  },
+  {
+    "tag": "p",
+    "text": "主要入住国外留学生，基本配置为一人一间，拥有空调、电视、厨房等基础设施，与此同时为来东师的宾客们提供基本的住宿。"
+  },
+  {
+    "tag": "foot",
+    "author": "Mr.Hope",
+    "time": "2019/08/11"
+  }
+]
